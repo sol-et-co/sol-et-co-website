@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "fr-fr"
 title = "Sol & Co"
-theme = "sol_et_co"
+theme = "sol-et-co"
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
