@@ -1,0 +1,54 @@
+.navbar:not(.landing)
+  -webkit-box-shadow: 0 4px 12px 0 rgba(0,0,0,.05) !important
+  box-shadow: 0 4px 12px 0 rgba(0,0,0,.05) !important
+
+.navbar
+  padding-top: 4px
+  &::before
+    content: ''
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+    width: 100%
+    height: 100%
+    border-top: 4px solid #008d36
+
+.navbar-burger
+  height: auto
+  span
+    height: 2px
+
+.navbar-menu
+  display: block
+  position: absolute
+  background: $white
+  width: 100%
+  height: 100vh
+  z-index: -1
+  top: -100vh
+  transition: all 350ms ease
+  &.is-active
+    top: $navbar-height
+
+.navbar-brand
+  background-color: $white
+
++desktop
+  .navbar-menu
+    position: static
+    display: flex
+    transform: translateY(0%)
+    height: 100%
+    width: auto
+    overflow: hidden
+    z-index: 0
+
+// Kepos logo  -----------------
+.navbar-item img
+  height: $navbar-item-img-max-height
+
++desktop
+  .navbar-item img
+    height: $navbar-item-img-max-height * 1.5
+    max-height: $navbar-item-img-max-height * 1.5

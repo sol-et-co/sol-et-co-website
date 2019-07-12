@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "Sol & Co"
+theme = "sol_et_co"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+
+[params]
+  author = "Yop"

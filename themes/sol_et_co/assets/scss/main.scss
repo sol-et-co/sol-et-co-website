@@ -1,0 +1,45 @@
+
+@import "fontawesome/fontawesome.scss";
+@import "fontawesome/regular.scss";
+@import "fontawesome/solid.scss";
+// @import "fontawesome/brands.scss";
+
+@import "bulma/utilities/initial-variables";
+@import "bulma/utilities/functions";
+
+@import 'variables';
+
+@import 'bulma';
+
+@import 'custom';
+
+
+// @font-face {
+//   font-family: 'Exceptional-Regular';
+// 	src: url(asset_path('exceptional-regular.eot'));
+// 	src: url(asset_path('exceptional-regular.eot?#iefix')) format('embedded-opentype'),
+//        url(asset_path('exceptional-regular.woff2')) format('woff2'),
+// 	     url(asset_path('exceptional-regular.woff')) format('woff'),
+// 	     url(asset_path('exceptional-regular.ttf')) format('truetype'),
+// 	     url(asset_path('exceptional-regular.svg#youworkforthem')) format('svg');
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+@font-face{
+	font-family: 'OpenSans';
+	src: url(asset_path('OpenSans-Bold.woff2')) format('woff2'), 
+			url(asset_path('OpenSans-Bold.woff')) format('woff'),
+			url(asset_path("OpenSans-Bold.ttf")) format('truetype');
+	font-weight: 600;
+	font-style: bold;
+}
+
+@font-face{
+	font-family: 'OpenSans';
+	src: url(asset_path('OpenSans-Regular.woff2')) format('woff2'), 
+			url(asset_path('OpenSans-Regular.woff')) format('woff'),
+			url(asset_path('OpenSans-Regular.ttf')) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}

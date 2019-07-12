@@ -1,0 +1,39 @@
+.columns.category-links
+  margin-top: 2.5rem
+
+.category-link
+  height: 100%
+  display: flex
+  flex-direction: column
+  text-align: center
+  box-shadow: 0 2px 3px 0 hsla(0, 0%, 0%, 0.2)
+  .category-link_main
+    flex-grow: 1
+    padding: 2.5rem 1.5rem
+    transition: all 350ms ease
+  .content
+    color: $grey-dark
+  .category-link_footer
+    display: flex
+    align-items: center
+    justify-content: center
+    background-color: $primary
+    color: $white
+    font-size: 1.5em
+    transition: all 350ms ease
+    height: 2.7rem
+
++desktop
+  .category-link
+    .category-link_footer
+      height: 0.2rem
+      .icon
+        opacity: 0
+    &:hover
+      .category-link_main
+        padding-top: 1.25rem
+        padding-bottom: 1.25rem
+      .category-link_footer
+        height: 2.7rem
+        .icon
+          opacity: 1

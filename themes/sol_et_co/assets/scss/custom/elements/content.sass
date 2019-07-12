@@ -1,0 +1,19 @@
+.content
+  p, li
+    font-size: 1.2rem
+  h2
+    font-size: 1.7em
+    margin-bottom: 0.5714em
+    &:first-child
+      margin-top: 1.2em
+    &:not(:first-child)
+      margin-top: 1.75em
+
+
+// Due to layout including 'content' class ------------------
+.content .card figure
+  margin-left: 0
+  margin-right: 0
+
+.content .card-footer p:not(:last-child)
+  margin-bottom: 0
