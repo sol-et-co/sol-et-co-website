@@ -1,8 +1,8 @@
 +++
 date = "2019-07-12T11:06:51+02:00"
-title = "My First Page"
+title = "A propos"
 type = "page"
-draft = true
+draft = false
 +++
 
 Lorem ipsum summary of the page.

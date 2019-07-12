@@ -1,6 +1,30 @@
 <header class="header">
-  <h1>{{.Title}}</h1>
-  {{ with .Params.subtitle }}
-  <span class="subtitle">{{.}}</span>
-  {{ end }}
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-brand brand-title">
+        <a class="navbar-item" href="{{ .Site.BaseURL }}">
+          {{ .Site.Title }}
+        </a>
+        <div class="navbar-burger burger" data-target="navbar-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+      
+      <div id="navbar-menu" class="navbar-menu">
+        <div class="navbar-end">
+          {{ range .Site.Menus.main }}
+            {{ $text := print .Name | safeHTML }}
+            <a class="navbar-item" href="{{ .URL }}">{{ $text }}</a>
+          {{ end }}
+        </div>
+        <div class="navbar-item">
+          <a class="button is-primary" href="#">
+            <strong>Nous soutenir</strong>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
 </header>

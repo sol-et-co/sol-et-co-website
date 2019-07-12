@@ -1,0 +1,10 @@
+{{ $dateTime := .PublishDate.Format "2019-06-01" }}
+{{ $dateFormat := .Site.Params.dateFormat | default "June 1, 2019" }}
+<time datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time>
+{{ with .Params.tags }}
+  <br>
+  {{ range . }}
+    {{ $href := print (absURL "tags/") (urlize .) }}
+    <a class="button" href="{{ $href }}">{{ . }}</a>
+  {{ end }}
+{{ end }}

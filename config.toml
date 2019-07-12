@@ -2,8 +2,47 @@ baseURL = "http://example.org/"
 languageCode = "fr-fr"
 title = "Sol & Co"
 theme = "sol_et_co"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
 [params]
   author = "Yop"
+  dateFormat = "Jan 2, 2006"
+
+[menu]
+  # [[menu.main]]
+  #   name = "Réalisations"
+  #   url = "/realisations/"
+  #   weight = 1
+  [[menu.main]]
+    name = "Prestations"
+    url = "/prestations/"
+    weight = 2
+  [[menu.main]]
+    name = "Compétences"
+    url = "/compétences/"
+    weight = 3
+  [[menu.main]]
+    name = "A propos"
+    url = "/a-propos/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 6
+  [[menu.main]]
+    name = "Pages"
+    url = "/pages/"
+    weight = 7
+
+[permalinks]
+  pages = "/:filename/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  competence = "competences"

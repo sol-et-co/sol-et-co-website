@@ -2,7 +2,8 @@
 date = "{{ .Date }}"
 title = "{{ replace .Name "-" " " | title }}"
 type = "post"
-draft = true
+draft = false
+tags = []
 +++
 
 Lorem ipsum summary of the post.

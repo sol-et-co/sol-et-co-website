@@ -2,7 +2,7 @@
 date = "{{ .Date }}"
 title = "{{ replace .Name "-" " " | title }}"
 type = "page"
-draft = true
+draft = false
 +++
 
 Lorem ipsum summary of the page.

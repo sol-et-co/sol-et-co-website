@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="section ">
+  <h1>{{ .Title }}</h1>
+
+  {{ $type := .Type }}
+  {{ range $key, $value := .Data.Terms.ByCount }}
+    {{ $name := .Name }}
+    {{ $count := .Count }}
+    {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+      <p>
+        <a class="button" href="{{ .Permalink }}">
+          <span class="tag is-dark">{{ $count }}</span> {{ $name }}
+        </a>
+      </p>
+    {{ end }}
+  {{ end }}
+</section>
+{{ end }}
