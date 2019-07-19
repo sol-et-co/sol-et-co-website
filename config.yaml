@@ -1,0 +1,50 @@
+baseURL: 'https://sol-et-co.netlify.com'
+languageCode: fr-fr
+title: Sol & Co
+theme: sol-et-co
+DefaultContentLanguage: fr
+
+params:
+  author: Yop
+  dateFormat: 'Jan 2, 2006'
+
+
+menu:
+  main:
+    - name: Prestations
+      url: /prestations/
+      weight: 1
+    - name: Réalisations
+      url: /realisations/
+      weight: 2
+    - name: Compétences
+      url: /compétences/
+      weight: 3
+    - name: Qui sommes-nous
+      url: /a-propos/
+      weight: 4
+    - name: Contact
+      url: /contact/
+      weight: 5
+    - name: Blog
+      url: /posts/
+      weight: 6
+    - name: Pages
+      url: /pages/
+      weight: 7
+
+permalinks:
+  pages: '/:filename/'
+
+taxonomies:
+  category: categories
+  tag: tags
+  competence: competences
+
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: false
+  indices:
+  - name: prestation_key
+    weight: 1

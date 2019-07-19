@@ -1,14 +1,8 @@
 {{ define "main" }}
 <section class="section ">
 
-  <h1>{{ .Title }}</h1>
+  <h1>{{ .Title }} - custom post</h1>
   {{ partial "date-and-tags.html" . }}
-  <br><br>
-  section : {{ .Section }}
-  <br>
-  kind : {{ .Kind }}
-  <br>
-  type : {{ .Type }}
   <br><br>
   {{ .Content }}
 </section>

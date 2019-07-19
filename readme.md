@@ -1,5 +1,10 @@
 # Sol & Co website
 
+## Commands
+
+- `hugo server`
+- `hugo server -D` (with drafts)
+
 ## Resources 
 
 - https://discourse.gohugo.io/t/hugo-101-slowstart-for-beginners/18383

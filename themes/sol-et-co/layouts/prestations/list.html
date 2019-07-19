@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <section class="section ">
+
+    <h1>{{ .Title }} - custom layout</h1>
+
+    {{ range .Pages.ByPublishDate.Reverse }}
+    <p>
+      <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </p>
+    {{ end }}
+
+  </section>
+{{ end }}

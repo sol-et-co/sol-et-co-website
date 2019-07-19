@@ -1,9 +1,9 @@
-+++ 
-draft = true
-date = {{ .Date }}
-title = ""
-slug = "" 
-+++
+---
+draft: true
+date: {{ .Date }}
+title: ""
+slug: "" 
+---
 
 
 Lorem ipsum summary of the post.
