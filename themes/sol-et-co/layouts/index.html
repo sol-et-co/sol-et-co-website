@@ -13,24 +13,50 @@
     </div>
   </section>
   <section class="section ">
+    <div class="container">
       <h1>{{.Title}}</h1>
       {{ with .Params.subtitle }}
       <span class="subtitle">{{.}}</span>
       {{ end }}
-  <div class="homepage-content">
-    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-    {{.Content}}
-  </div>
-  <div>
-    <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    {{ range first 10 .Pages }}
-    {{ .Render "title"}}
-    {{ end }}
-  </div>
+      <div class="homepage-content">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+      </div>
+      <div>
+        <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
+        {{ range first 10 .Pages }}
+        {{ .Render "title"}}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <div class="has-text-centered">
+        <h3 class="title is-3 heading has-text-weight-light">Nos prestations</h3>
+        <p class="subtitle is-4 has-text-weight-bold">
+          Pour une meilleure connaissance de vos sols,
+          du terrain au laboratoire, de la parcelle au territoire
+        </p>
+      </div>
+      <div class="columns">
+        {{ $prestations := where .Site.RegularPages "Type" "prestations" }}
+        {{ range $prestations }}
+      <div class="column">
+
+        {{ .Render "tile"}}
+      </div>
+      {{ end }}
+
+      </div>
+    </div>
   </section>
   <!-- Recompenses -->
   <section class="section">
-    {{- partial "recompenses.html" . -}}
+    <div class="container">
+      <h3 class="title is-3 heading has-text-weight-light has-text-centered">Récompenses</h3>
+      {{- partial "recompenses.html" . -}}
+    </div>
   </section>
 </main>
 {{ end }}
