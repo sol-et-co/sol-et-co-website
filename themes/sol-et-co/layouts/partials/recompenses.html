@@ -1,0 +1,16 @@
+<h3 class="has-text-centered is-size-3 has-text-weight-bold">Récompenses</h3>
+<nav class="level">
+    {{ range $resource := .Resources.Match "recompense-**" }}
+    {{ $image := $resource.Resize "150x" }}
+      <div class="level-item has-text-centered">
+        <div>
+          <a href="{{ .Params.Url  }}" target='_blank'>
+            <img src="{{ $image.RelPermalink }}">
+            <p class="heading">{{ $image.Title }}</p>
+            <!-- <p class="title">{{ $image.Name }}</p> -->
+          </a>
+        </div>
+      </div>
+      {{ end }}
+</nav>
+
