@@ -1,31 +1,31 @@
 {{ define "main" }}
 <section class="section ">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
 
-  <h1>{{ .Title }}</h1>
-
-  <div class="columns">
-    <div class="column is-three-quarters">
-      {{ .Content }}
-    </div>
-    <div class="column">
-      {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
-      {{ range $prestation }}
-        Prestation : {{ .Title }}
-      {{ end }}
-      <br>
-      {{ with .Params.place}}
-        Lieu : {{ .}}
-      {{ end }}
-      <br>
-      {{ with .Params.execution_date}}
-        {{ $dateTime := dateFormat "2006-01-02T15:04:05Z07:00" . }}
-        Date : <time datetime="{{ $dateTime }}">{{ dateFormat "January 2006" . }}</time>
+    <div class="columns">
+      <div class="column is-three-quarters">
+        {{ .Content }}
+      </div>
+      <div class="column">
+        {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
+        {{ range $prestation }}
+          Prestation : {{ .Title }}
+        {{ end }}
         <br>
-      {{ end }}
+        {{ with .Params.place}}
+          Lieu : {{ .}}
+        {{ end }}
+        <br>
+        {{ with .Params.execution_date}}
+          {{ $dateTime := dateFormat "2006-01-02T15:04:05Z07:00" . }}
+          Date : <time datetime="{{ $dateTime }}">{{ dateFormat "January 2006" . }}</time>
+          <br>
+        {{ end }}
+      </div>
     </div>
+    <br><br>
   </div>
-  <br><br>
-  
 </section>
 
 {{ end }}

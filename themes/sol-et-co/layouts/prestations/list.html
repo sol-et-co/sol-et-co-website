@@ -1,13 +1,15 @@
 {{ define "main" }}
   <section class="section ">
+    <div class="container">
 
-    <h1>{{ .Title }} - custom layout</h1>
+      <h1>{{ .Title }} - custom layout</h1>
 
-    {{ range .Pages.ByPublishDate.Reverse }}
-    <p>
-      <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </p>
-    {{ end }}
+      {{ range .Pages.ByPublishDate.Reverse }}
+      <p>
+        <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </p>
+      {{ end }}
 
+    </div>
   </section>
 {{ end }}
