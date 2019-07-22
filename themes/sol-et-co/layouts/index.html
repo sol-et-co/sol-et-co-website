@@ -1,9 +1,9 @@
 {{ define "main" }}
 <main aria-role="main">
-  <section class="hero">
+  <section class="hero is-primary is-bold is-large">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title">
+        <h1 class="title is-spaced">
           {{.Site.Data.global.slogan_accueil}}
         </h1>
         <h2 class="subtitle">
@@ -30,9 +30,10 @@
       </div>
     </div>
   </section>
+  <!-- Prestations -->
   <section class="section">
     <div class="container">
-      <div class="has-text-centered">
+      <div class="has-text-centered mb-5">
         <h3 class="title is-3 heading has-text-weight-light">Nos prestations</h3>
         <p class="subtitle is-4 has-text-weight-bold">
           Pour une meilleure connaissance de vos sols,
@@ -42,19 +43,37 @@
       <div class="columns">
         {{ $prestations := where .Site.RegularPages "Type" "prestations" }}
         {{ range $prestations }}
-      <div class="column">
-
-        {{ .Render "tile"}}
+          <div class="column">
+            {{ .Render "card"}}
+          </div>
+        {{ end }}
       </div>
-      {{ end }}
-
+    </div>
+  </section>
+  <!-- Réalisations -->
+  <section class="section">
+    <div class="container">
+      <div class="has-text-centered mb-5">
+        <h3 class="title is-3 heading has-text-weight-light">Nos réalisations</h3>
+        <p class="subtitle is-4 has-text-weight-bold">
+          Pour une meilleure connaissance de vos sols,
+          du terrain au laboratoire, de la parcelle au territoire
+        </p>
+      </div>
+      <div class="columns">
+        {{ $realisations := where .Site.RegularPages "Type" "realisations" }}
+        {{ range $realisations }}
+        <div class="column">
+          {{ .Render "card"}}
+        </div>
+        {{ end }}
       </div>
     </div>
   </section>
   <!-- Recompenses -->
   <section class="section">
     <div class="container">
-      <h3 class="title is-3 heading has-text-weight-light has-text-centered">Récompenses</h3>
+      <h3 class="title is-3 heading has-text-weight-light has-text-centered mb-5">Récompenses</h3>
       {{- partial "recompenses.html" . -}}
     </div>
   </section>

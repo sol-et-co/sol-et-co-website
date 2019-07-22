@@ -2,13 +2,15 @@
   <section class="section ">
     <div class="container">
 
-      <h1>{{ .Title }} - custom layout</h1>
+      <h1 class="is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
 
-      {{ range .Pages.ByPublishDate.Reverse }}
-      <p>
-        <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </p>
-      {{ end }}
+      <div class="columns">
+        {{ range .Pages.ByPublishDate.Reverse }}
+        <div class="column">
+          {{ .Render "card"}}
+        </div>
+        {{ end }}
+      </div>
 
     </div>
   </section>

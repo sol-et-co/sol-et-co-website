@@ -8,6 +8,13 @@
         {{ .Content }}
       </div>
       <div class="column">
+            
+            section : {{ .Section }}
+            <br>
+            kind : {{ .Kind }}
+            <br>
+            type : {{ .Type }}
+            <br><br>
         {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
         {{ range $prestation }}
           Prestation : {{ .Title }}

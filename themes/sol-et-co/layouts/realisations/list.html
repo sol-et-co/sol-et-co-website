@@ -1,13 +1,17 @@
 {{ define "main" }}
-  <section class="section ">
-    <div class="container">
-      <h1>{{ .Title }} - custom layout for realisation</h1>
+<section class="section ">
+  <div class="container">
 
+    <h1 class="is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
+
+    <div class="columns">
       {{ range .Pages.ByPublishDate.Reverse }}
-      <p>
-        <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </p>
+      <div class="column">
+        {{ .Render "card"}}
+      </div>
       {{ end }}
     </div>
-  </section>
+
+  </div>
+</section>
 {{ end }}
