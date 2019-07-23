@@ -21,7 +21,7 @@ menu:
       url: /competences/
       weight: 3
     - name: Qui sommes-nous
-      url: /a-propos/
+      url: /qui-sommes-nous/
       weight: 4
     - name: Contact
       url: /contact/
@@ -44,7 +44,7 @@ menu:
       weight: 3
   footer_02:
     - name: Qui sommes-nous
-      url: /a-propos/
+      url: /qui-sommes-nous/
       weight: 4
     - name: Contact
       url: /contact/

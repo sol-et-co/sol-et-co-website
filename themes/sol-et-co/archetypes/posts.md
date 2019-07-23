@@ -1,7 +1,7 @@
 +++
 date = "{{ .Date }}"
 title = "{{ replace .Name "-" " " | title }}"
-type = "post"
+type = "posts"
 draft = false
 tags = []
 +++
