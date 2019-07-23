@@ -5,7 +5,8 @@
     <h1 class="is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
 
     <div class="columns">
-      {{ range .Pages.ByPublishDate.Reverse }}
+      {{ $pages:= .Pages.ByParam "execution_date" }}
+      {{ range $pages.Reverse }}
       <div class="column">
         {{ .Render "card"}}
       </div>

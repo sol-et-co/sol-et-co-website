@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <section class="section ">
+    <div class="container">
+
+      <h1 class="is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
+
+      <div class="columns is-multiline">
+        {{ range .Pages.ByTitle }}
+        <div class="column is-one-quarter">
+          {{ .Render "card"}}
+        </div>
+        {{ end }}
+      </div>
+
+    </div>
+  </section>
+{{ end }}

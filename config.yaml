@@ -18,7 +18,7 @@ menu:
       url: /realisations/
       weight: 2
     - name: Compétences
-      url: /compétences/
+      url: /competences/
       weight: 3
     - name: Qui sommes-nous
       url: /a-propos/
@@ -40,7 +40,7 @@ menu:
       url: /realisations/
       weight: 2
     - name: Compétences
-      url: /compétences/
+      url: /competences/
       weight: 3
   footer_02:
     - name: Qui sommes-nous
@@ -59,7 +59,6 @@ permalinks:
 taxonomies:
   category: categories
   tag: tags
-  competence: competences
 
 related:
   threshold: 80
