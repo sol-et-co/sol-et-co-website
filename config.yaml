@@ -32,6 +32,26 @@ menu:
     - name: Pages
       url: /pages/
       weight: 7
+  footer:
+    - name: Prestations
+      url: /prestations/
+      weight: 1
+    - name: Réalisations
+      url: /realisations/
+      weight: 2
+    - name: Compétences
+      url: /compétences/
+      weight: 3
+  footer_02:
+    - name: Qui sommes-nous
+      url: /a-propos/
+      weight: 4
+    - name: Contact
+      url: /contact/
+      weight: 5
+    - name: Mentions légales
+      url: /mentions/
+      weight: 6
 
 permalinks:
   pages: '/:filename/'

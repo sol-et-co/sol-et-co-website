@@ -1,3 +1,45 @@
-<footer>
-  
+<footer class="footer">
+  <div class="container">
+    <div class="columns menu-columns is-multiline">
+      <div class="column is-one-quarter">
+        <ul class="">
+          {{ range .Site.Menus.footer }}
+          {{ $text := print .Name | safeHTML }}
+          <li>
+            <a class="" href="{{ .URL }}">{{ $text }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="column is-one-quarter">
+        <ul class="">
+          {{ range .Site.Menus.footer_02 }}
+          {{ $text := print .Name | safeHTML }}
+          <li>
+            <a class="" href="{{ .URL }}">{{ $text }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="column is-one-quarter"></div>
+      <div class="column is-one-quarter">
+        <p>
+          {{.Site.Data.global.nom_entreprise}}
+          <br>
+          {{.Site.Data.global.adresse_entreprise}}
+          <br>
+          {{.Site.Data.global.ville_entreprise}}
+        </p>
+        <p>
+          {{ with .Site.Data.global.email_entreprise }}
+          {{ . }}
+          {{ end }}
+          <br>
+          {{ with .Site.Data.global.telephone_entreprise }}
+          {{ . }}
+          {{ end }}
+        </p>
+      </div>
+    </div>
+  </div>
 </footer>
