@@ -1,0 +1,8 @@
+<section class="section">
+  <div class="container">
+    <h1 class="title has-text-centered is-spaced mt-5">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+    <p class="subtitle has-text-centered mb-5">{{ . }}</p>
+    {{ end }}
+  </div>
+</section>

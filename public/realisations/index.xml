@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nos réalisations on Sol &amp; Co</title>
+    <link>https://sol-et-co.netlify.com/realisations/</link>
+    <description>Recent content in Nos réalisations on Sol &amp; Co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 19 Jul 2019 16:03:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://sol-et-co.netlify.com/realisations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projet 4</title>
+      <link>https://sol-et-co.netlify.com/realisations/projet-4/</link>
+      <pubDate>Fri, 19 Jul 2019 16:03:57 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/realisations/projet-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the realisation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projet 3</title>
+      <link>https://sol-et-co.netlify.com/realisations/projet-3/</link>
+      <pubDate>Fri, 19 Jul 2019 15:59:50 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/realisations/projet-3/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the realisation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projet 2</title>
+      <link>https://sol-et-co.netlify.com/realisations/projet-2/</link>
+      <pubDate>Fri, 19 Jul 2019 12:38:24 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/realisations/projet-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the realisation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projet 1</title>
+      <link>https://sol-et-co.netlify.com/realisations/projet-1/</link>
+      <pubDate>Fri, 19 Jul 2019 12:36:55 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/realisations/projet-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the realisation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

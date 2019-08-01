@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sol &amp; Co</title>
+    <link>https://sol-et-co.netlify.com/tags/</link>
+    <description>Recent content in Tags on Sol &amp; Co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jul 2019 11:06:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://sol-et-co.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gnou</title>
+      <link>https://sol-et-co.netlify.com/tags/gnou/</link>
+      <pubDate>Fri, 12 Jul 2019 11:06:39 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/tags/gnou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>irmat</title>
+      <link>https://sol-et-co.netlify.com/tags/irmat/</link>
+      <pubDate>Fri, 12 Jul 2019 11:06:39 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/tags/irmat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

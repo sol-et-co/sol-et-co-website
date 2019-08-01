@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Sol &amp; Co</title>
+    <link>https://sol-et-co.netlify.com/pages/</link>
+    <description>Recent content in Pages on Sol &amp; Co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Aug 2019 15:17:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://sol-et-co.netlify.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sol-et-co.netlify.com/contact/</link>
+      <pubDate>Thu, 01 Aug 2019 15:17:31 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/contact/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the page.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Qui Sommes Nous</title>
+      <link>https://sol-et-co.netlify.com/qui-sommes-nous/</link>
+      <pubDate>Tue, 23 Jul 2019 14:59:48 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/qui-sommes-nous/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the page.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A propos</title>
+      <link>https://sol-et-co.netlify.com/a-propos/</link>
+      <pubDate>Fri, 12 Jul 2019 11:06:51 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/a-propos/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the page.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

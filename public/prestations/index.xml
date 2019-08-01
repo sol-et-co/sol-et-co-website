@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nos prestations on Sol &amp; Co</title>
+    <link>https://sol-et-co.netlify.com/prestations/</link>
+    <description>Recent content in Nos prestations on Sol &amp; Co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 19 Jul 2019 12:35:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://sol-et-co.netlify.com/prestations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formation professionnelle</title>
+      <link>https://sol-et-co.netlify.com/prestations/formation-professionnelle/</link>
+      <pubDate>Fri, 19 Jul 2019 12:35:07 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/prestations/formation-professionnelle/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the prestation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sensibilisation, médiation</title>
+      <link>https://sol-et-co.netlify.com/prestations/sensibilisation-mediation/</link>
+      <pubDate>Fri, 19 Jul 2019 12:34:35 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/prestations/sensibilisation-mediation/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the prestation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Etude Diagnostic et Conseil</title>
+      <link>https://sol-et-co.netlify.com/prestations/etude-diagnostic-conseil/</link>
+      <pubDate>Fri, 12 Jul 2019 16:33:12 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/prestations/etude-diagnostic-conseil/</guid>
+      <description>&lt;p&gt;Lorem ipsum summary of the prestation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

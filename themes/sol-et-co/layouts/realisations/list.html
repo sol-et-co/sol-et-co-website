@@ -1,9 +1,7 @@
 {{ define "main" }}
+{{- partial "page-header.html" . -}}
 <section class="section ">
   <div class="container">
-
-    <h1 class="is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
-
     <div class="columns">
       {{ $pages:= .Pages.ByParam "execution_date" }}
       {{ range $pages.Reverse }}

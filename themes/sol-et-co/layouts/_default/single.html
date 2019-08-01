@@ -1,19 +1,18 @@
 {{ define "main" }}
-<div class="container">
-  <section class="section ">
-  
-    <h1>{{ .Title }}</h1>
-    {{ partial "date-and-tags.html" . }}
-    <br><br>
-    section : {{ .Section }}
+
+{{- partial "page-header.html" . -}}
+<section class="section ">
+  <div class="container">
+    <!-- section : {{ .Section }}
     <br>
     kind : {{ .Kind }}
     <br>
     type : {{ .Type }}
-    <br><br>
-    {{ .Content }}
+    <br><br> -->
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </div>
   </section>
-
-</div>
 
 {{ end }}

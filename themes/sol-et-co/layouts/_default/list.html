@@ -1,13 +1,16 @@
 {{ define "main" }}
-  <section class="section ">
 
-    <h1>{{ .Title }}</h1>
+{{- partial "page-header.html" . -}}
 
-    {{ range .Pages.ByPublishDate.Reverse }}
+<section class="section list">
+  <div class="container">
+
+    {{ range .Pages.ByTitle }}
     <p>
       <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
     </p>
     {{ end }}
 
-  </section>
+  </div>
+</section>
 {{ end }}

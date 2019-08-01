@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nos compétences on Sol &amp; Co</title>
+    <link>https://sol-et-co.netlify.com/competences/</link>
+    <description>Recent content in Nos compétences on Sol &amp; Co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 23 Jul 2019 14:43:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://sol-et-co.netlify.com/competences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lala</title>
+      <link>https://sol-et-co.netlify.com/competences/lala/</link>
+      <pubDate>Tue, 23 Jul 2019 14:43:11 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/competences/lala/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate.
+Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+    </item>
+    
+    <item>
+      <title>Plus Long Titre</title>
+      <link>https://sol-et-co.netlify.com/competences/plus-long-titre/</link>
+      <pubDate>Tue, 23 Jul 2019 14:42:55 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/competences/plus-long-titre/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate.
+Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+    </item>
+    
+    <item>
+      <title>Bidule</title>
+      <link>https://sol-et-co.netlify.com/competences/bidule/</link>
+      <pubDate>Tue, 23 Jul 2019 14:42:33 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/competences/bidule/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate.
+Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+    </item>
+    
+    <item>
+      <title>Machin Chose</title>
+      <link>https://sol-et-co.netlify.com/competences/machin-chose/</link>
+      <pubDate>Tue, 23 Jul 2019 14:20:15 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/competences/machin-chose/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate.
+Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+    </item>
+    
+    <item>
+      <title>Pédologie</title>
+      <link>https://sol-et-co.netlify.com/competences/pedologie/</link>
+      <pubDate>Tue, 23 Jul 2019 14:20:06 +0200</pubDate>
+      
+      <guid>https://sol-et-co.netlify.com/competences/pedologie/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate.
+Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+    </item>
+    
+  </channel>
+</rss>
