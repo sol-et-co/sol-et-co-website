@@ -1,59 +1,48 @@
-baseURL: 'https://sol-et-co.netlify.com'
+---
+baseURL: https://sol-et-co.netlify.com
 languageCode: fr-fr
 title: Sol & Co
 theme: sol-et-co
 DefaultContentLanguage: fr
-
 params:
   author: Yop
-  dateFormat: 'Jan 2, 2006'
-
-
+  dateFormat: Jan 2, 2006
 menu:
   main:
-    - name: Prestations
-      url: /prestations/
-      weight: 1
-    - name: Réalisations
-      url: /realisations/
-      weight: 2
-    - name: Compétences
-      url: /competences/
-      weight: 3
-    - name: Qui sommes-nous
-      url: /qui-sommes-nous/
-      weight: 4
-    - name: Contact
-      url: /contact/
-      weight: 5
+  - url: "/contact/"
+    name: Contact
+    weight: 5
+  - url: "/qui-sommes-nous/"
+    name: Qui sommes-nous
+    weight: 4
+  - url: "/competences/"
+    name: Compétences
+    weight: 3
+  - url: "/realisations/"
+    name: Réalisations
+    weight: 2
+  - url: "/prestations/"
+    name: Prestations
+    weight: 1
   footer:
-    - name: Prestations
-      url: /prestations/
-      weight: 1
-    - name: Réalisations
-      url: /realisations/
-      weight: 2
-    - name: Compétences
-      url: /competences/
-      weight: 3
+  - url: "/competences/"
+    name: Compétences
+    weight: 3
+  - url: "/realisations/"
+    name: Réalisations
+    weight: 2
+  - url: "/prestations/"
+    name: Prestations
+    weight: 1
   footer_02:
-    - name: Qui sommes-nous
-      url: /qui-sommes-nous/
-      weight: 4
-    - name: Contact
-      url: /contact/
-      weight: 5
-    - name: Mentions légales
-      url: /mentions/
-      weight: 6
-
+  - url: "/mentions/"
+    name: Mentions légales
+    weight: 3
 permalinks:
-  pages: '/:filename/'
-
+  pages: "/:filename/"
 taxonomies:
   category: categories
   tag: tags
-
 related:
   threshold: 80
   includeNewer: true
