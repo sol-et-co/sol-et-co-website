@@ -1,0 +1,22 @@
+---
+label: realisations
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: list
+  name: competences
+  label: competences
+- type: text
+  name: prestation_key
+  label: prestation_key
+- type: datetime
+  name: execution_date
+  label: execution_date
+- type: text
+  name: place
+  label: place
