@@ -13,9 +13,18 @@ fields:
     source:
       type: pages
       section: competences
-- type: text
+- type: select
   name: prestation_key
   label: Prestation
+  description: Sélectionnez le type de prestation auquel correspond cette réalisation
+  hidden: false
+  config:
+    source:
+      type: custom
+    options:
+        - "etude-diagnostic-conseil"
+        - "formation-professionnelle"
+        - "sensibilisation-mediation"
 - type: datetime
   name: execution_date
   label: Date de réalisation
