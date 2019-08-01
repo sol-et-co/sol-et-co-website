@@ -2,21 +2,23 @@
 label: realisations
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: list
   name: competences
-  label: competences
+  label: Competences
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: competences
 - type: text
   name: prestation_key
-  label: prestation_key
+  label: Prestation
 - type: datetime
   name: execution_date
-  label: execution_date
+  label: Date de réalisation
 - type: text
   name: place
-  label: place
+  label: Lieu
