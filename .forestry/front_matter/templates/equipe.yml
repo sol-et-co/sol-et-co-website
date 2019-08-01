@@ -1,0 +1,22 @@
+---
+label: equipe
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: number
+  name: weight
+  label: weight
+- type: textarea
+  name: summary
+  label: summary
+- type: text
+  name: type
+  label: type
