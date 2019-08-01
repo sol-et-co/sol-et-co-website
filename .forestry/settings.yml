@@ -46,9 +46,8 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: data/global.yml
+  path: data/global.yaml
   label: global
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
