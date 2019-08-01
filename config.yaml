@@ -7,11 +7,6 @@ DefaultContentLanguage: fr
 params:
   author: Yop
   dateFormat: Jan 2, 2006
-menu:
-  footer_02:
-  - url: "/mentions/"
-    name: Mentions légales
-    weight: 3
 permalinks:
   pages: "/:filename/"
 taxonomies:
