@@ -2,15 +2,14 @@
 label: prestation
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: list
   name: competences
-  label: competences
-- type: text
-  name: prestation_key
-  label: prestation_key
+  label: Competences
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: competences
