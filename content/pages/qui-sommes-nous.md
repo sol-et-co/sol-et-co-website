@@ -1,8 +1,11 @@
 ---
-date: 2019-07-23T14:59:48+02:00
+date: '2019-07-23T12:59:48.000+00:00'
 title: Qui Sommes Nous
 layout: qui-sommes-nous
 menu:
+  main:
+    name: Qui sommes-nous
+    weight: 4
   footer_02:
     name: Qui sommes-nous
     weight: 1
