@@ -5,33 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/approche
-  label: Approche
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/posts
-  label: Posts
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/pages
-  label: Pages
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/recompenses
-  label: Recompenses
-  create: all
-  match: "**/*"
-- type: directory
   path: content/prestations
   label: Prestations
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/realisations
+  label: Realisations
   create: all
   match: "**/*"
 - type: directory
@@ -40,8 +20,22 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/realisations
-  label: Realisations
+  path: content/pages
+  label: Pages
+  create: all
+  match: "**/*"
+- type: heading
+  label: Qui sommes-nous
+- type: directory
+  path: content/approche
+  label: Approche
+  create: all
+  match: "**/*"
+- type: heading
+  label: Autres
+- type: directory
+  path: content/recompenses
+  label: Recompenses
   create: all
   match: "**/*"
 upload_dir: static/uploads
