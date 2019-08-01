@@ -11,16 +11,22 @@ sections:
   label: Prestations
   create: all
   match: "**/*"
+  templates:
+  - prestation
 - type: directory
   path: content/realisations
   label: Realisations
   create: all
   match: "**/*"
+  templates:
+  - realisations
 - type: directory
   path: content/competences
   label: Competences
   create: all
   match: "**/*"
+  templates:
+  - competences
 - type: directory
   path: content/recompenses
   label: Recompenses
