@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Catégories
 - type: directory
   path: content/prestations
   label: Prestations
@@ -20,6 +22,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/recompenses
+  label: Recompenses
+  create: all
+  match: "**/*"
+- type: directory
   path: content/pages
   label: Pages
   create: all
@@ -31,12 +38,16 @@ sections:
   label: Approche
   create: all
   match: "**/*"
-- type: heading
-  label: Autres
 - type: directory
-  path: content/recompenses
-  label: Recompenses
-  create: all
+  path: content/equipe
+  label: Equipe
+  create: documents
+  match: "**/*"
+- type: heading
+  label: Configuration
+- type: document
+  path: data/global.yml
+  label: global
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
