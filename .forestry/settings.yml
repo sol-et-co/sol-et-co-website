@@ -12,6 +12,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - page-standard
   - prestation
 - type: directory
   path: content/realisations
@@ -19,6 +20,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - page-standard
   - realisations
 - type: directory
   path: content/competences
@@ -26,6 +28,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - page-standard
   - competences
 - type: directory
   path: content/recompenses
@@ -37,6 +40,9 @@ sections:
   label: Pages
   create: all
   match: "**/*"
+  templates:
+  - page-ressources
+  - page-standard
 - type: heading
   label: Qui sommes-nous
 - type: directory
@@ -44,11 +50,15 @@ sections:
   label: Approche
   create: all
   match: "**/*"
+  templates:
+  - page-ressources
 - type: directory
   path: content/equipe
   label: Equipe
   create: documents
   match: "**/*"
+  templates:
+  - equipe
 - type: heading
   label: Configuration
 - type: document
