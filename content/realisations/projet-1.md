@@ -1,13 +1,14 @@
 ---
-date: "2019-07-19T12:36:55+02:00"
-title: "Projet 1"
-draft: false
-competences: []
-prestation_key: "etude-diagnostic-conseil"
-execution_date: "2018-10-19T12:36:55+02:00"
-place: "Lannion"
----
+date: '2019-07-19T12:36:55+02:00'
+title: Projet 1
+competences:
+- competences/plus-long-titre.md
+- competences/machin-chose.md
+prestation_key: etude-diagnostic-conseil
+execution_date: 2018-10-19T12:36:55+02:00
+place: Lannion
 
+---
 Lorem ipsum summary of the realisation.
 <!--more-->
 Lorem ipsum rest of the realisation.
@@ -29,5 +30,3 @@ Sed risus pretium quam vulputate. Sed felis eget velit aliquet sagittis id conse
 
 <br>
 <br>
-
-
