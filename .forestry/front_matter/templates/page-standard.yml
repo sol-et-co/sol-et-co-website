@@ -1,0 +1,10 @@
+---
+label: page-standard
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Titre
+- type: text
+  name: subtitle
+  label: Sous-titre

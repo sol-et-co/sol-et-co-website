@@ -1,0 +1,22 @@
+---
+label: equipe
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Nom
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Rôle
+  config:
+    required: false
+- type: number
+  name: weight
+  label: Position
+  description: Position pour gérer l'ordre d'affichage
+- type: textarea
+  name: summary
+  label: Description courte
+  description: Affichée dans les vignettes de la page Qui sommes-nous

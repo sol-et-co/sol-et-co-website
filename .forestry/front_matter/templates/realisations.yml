@@ -22,9 +22,9 @@ fields:
     source:
       type: custom
     options:
-        - "etude-diagnostic-conseil"
-        - "formation-professionnelle"
-        - "sensibilisation-mediation"
+    - etude-diagnostic-conseil
+    - formation-professionnelle
+    - sensibilisation-mediation
 - type: datetime
   name: execution_date
   label: Date de réalisation

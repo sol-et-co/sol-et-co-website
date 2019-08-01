@@ -8,32 +8,6 @@ params:
   author: Yop
   dateFormat: Jan 2, 2006
 menu:
-  main:
-  - url: "/contact/"
-    name: Contact
-    weight: 5
-  - url: "/qui-sommes-nous/"
-    name: Qui sommes-nous
-    weight: 4
-  - url: "/competences/"
-    name: Compétences
-    weight: 3
-  - url: "/realisations/"
-    name: Réalisations
-    weight: 2
-  - url: "/prestations/"
-    name: Prestations
-    weight: 1
-  footer:
-  - url: "/competences/"
-    name: Compétences
-    weight: 3
-  - url: "/realisations/"
-    name: Réalisations
-    weight: 2
-  - url: "/prestations/"
-    name: Prestations
-    weight: 1
   footer_02:
   - url: "/mentions/"
     name: Mentions légales
