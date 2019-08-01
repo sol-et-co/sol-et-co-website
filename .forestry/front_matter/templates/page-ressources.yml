@@ -2,22 +2,21 @@
 label: page-ressources
 hide_body: false
 fields:
-- type: boolean
-  name: headless
-  label: headless
 - type: text
   name: title
-  label: title
+  label: Titre
+  config:
+    required: true
 - type: text
   name: subtitle
-  label: subtitle
+  label: Sous-titre
 - type: field_group_list
   name: resources
-  label: resources
+  label: Images
   fields:
   - type: text
     name: name
-    label: name
+    label: Nom
   - type: file
     name: src
-    label: src
+    label: Source
