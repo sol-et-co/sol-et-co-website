@@ -26,12 +26,6 @@ menu:
     - name: Contact
       url: /contact/
       weight: 5
-    - name: Blog
-      url: /posts/
-      weight: 6
-    - name: Pages
-      url: /pages/
-      weight: 7
   footer:
     - name: Prestations
       url: /prestations/

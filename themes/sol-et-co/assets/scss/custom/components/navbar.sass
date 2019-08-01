@@ -1,40 +1,32 @@
-.navbar:not(.landing)
-  -webkit-box-shadow: 0 4px 12px 0 rgba(0,0,0,.05) !important
-  box-shadow: 0 4px 12px 0 rgba(0,0,0,.05) !important
-
 .navbar
-  padding-top: 4px
-  // &::before
-  //   content: ''
-  //   position: absolute
-  //   top: 50%
-  //   left: 50%
-  //   transform: translate(-50%, -50%)
-  //   width: 100%
-  //   height: 100%
-  //   border-top: 4px solid #008d36
+  -webkit-box-shadow: 0 4px 12px 0 rgba(0,0,0,.05)
+  box-shadow: 0 4px 12px 0 rgba(0,0,0,.05)
+  padding: 0.5rem 2rem
 
-.navbar-burger
-  height: auto
-  span
-    height: 2px
+.navbar-brand
+  .navbar-item
+    padding: 0rem 0.75rem
+    img
+      max-height: 4rem
 
 .navbar-menu
   display: block
   position: absolute
-  background: $white
-  width: 100%
+  width: 150%
   height: 100vh
   z-index: -1
   top: -100vh
   transition: all 350ms ease
+  box-shadow: none
+  margin: auto -2rem
+  padding-left: 2rem
   &.is-active
-    top: $navbar-height
+    top: 70px
 
-.navbar-brand
-  background-color: $white
 
 +desktop
+  .navbar
+    padding: 0rem 2rem
   .navbar-menu
     position: static
     display: flex
@@ -43,12 +35,25 @@
     width: auto
     overflow: hidden
     z-index: 0
-
-// Kepos logo  -----------------
-.navbar-item img
-  height: $navbar-item-img-max-height
-
-+desktop
-  .navbar-item img
-    height: $navbar-item-img-max-height * 1.5
-    max-height: $navbar-item-img-max-height * 1.5
+    .navbar-item
+      &::after
+        position: absolute
+        top: 87%
+        left: 0rem
+        width: 100%
+        height: 8px
+        background-color: $navbar-item-color
+        content: ''
+        opacity: 0
+        -webkit-transition: height 0.3s, opacity 0.3s, -webkit-transform 0.3s
+        -moz-transition: height 0.3s, opacity 0.3s, -moz-transform 0.3s
+        transition: height 0.3s, opacity 0.3s, transform 0.3s
+        -webkit-transform: translateY(-10px)
+        -moz-transform: translateY(-10px)
+        transform: translateY(-10px)
+      &:hover::after, &:active::after, &.active::after
+        height: 8px
+        opacity: 1
+        -webkit-transform: translateY(0px)
+        -moz-transform: translateY(0px)
+        transform: translateY(0px)

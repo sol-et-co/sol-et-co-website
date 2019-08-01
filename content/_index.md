@@ -14,5 +14,3 @@ resources:
   params:
     url: https://www.pepite-france.fr/c-prix-pepite
 ---
-
-Ici, c'est la page d'accueil
