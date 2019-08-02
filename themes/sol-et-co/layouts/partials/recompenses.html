@@ -1,15 +1,16 @@
-<nav class="level">
+<nav class="columns is-multiline">
   {{ range where .Site.Pages "Type" "recompenses" }}
 
-    <div class="level-item has-text-centered">
+    <div class="column is-2">
       <div>
-        <a href="{{ .Params.website  }}" target='_blank'>
-          {{ with .Params.picture }}
-          {{ print . }}
-          {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-          {{ print $imageResource}}
- 
-          {{ end }}
+        <a href="{{ .Params.website  }}" title="{{ .Content }}" target='_blank'>
+        {{ with .Params.picture }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ $resized := $imageResource.Resize "x50" }}
+          <figure class="">
+              <img src="{{ $resized.RelPermalink }}" alt="{{ $resized.Title }}">
+          </figure>
+        {{ end }}
 
           <p class="heading">{{ .Title }}</p>
         </a>
