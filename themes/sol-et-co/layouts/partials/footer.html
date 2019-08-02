@@ -32,11 +32,11 @@
         </p>
         <p>
           {{ with .Site.Data.global.email_entreprise }}
-          {{ . }}
+          <a href="mailto:{{ . }}">{{ . }}</a>
           {{ end }}
           <br>
           {{ with .Site.Data.global.telephone_entreprise }}
-          {{ . }}
+          <a href="tel:{{ . }}">{{ . }}</a>
           {{ end }}
         </p>
       </div>

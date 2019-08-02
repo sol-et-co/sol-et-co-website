@@ -16,9 +16,11 @@
       
       <div id="navbar-menu" class="navbar-menu">
         <div class="navbar-end">
+          {{ $current := . }}
           {{ range .Site.Menus.main }}
+            {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
             {{ $text := print .Name | safeHTML }}
-            <a class="navbar-item" href="{{ .URL }}">{{ $text }}</a>
+            <a class="navbar-item {{ if $active }}active{{ end }}" href="{{ .URL }}">{{ $text }}</a>
           {{ end }}
         </div>
       </div>
