@@ -35,6 +35,9 @@ sections:
   label: Recompenses
   create: all
   match: "**/*"
+  templates:
+  - recompenses
+  - page-standard
 - type: directory
   path: content/pages
   label: Pages
