@@ -2,18 +2,13 @@
 label: recompenses
 hide_body: false
 fields:
-- type: boolean
-  name: headless
-  label: headless
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: file
   name: picture
-  label: picture
+  label: Image
 - type: text
   name: website
-  label: website
+  label: Url site internet
+  description: Un site où trouver + d'infos sur le prix
