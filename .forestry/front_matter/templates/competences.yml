@@ -6,6 +6,7 @@ fields:
   name: title
   label: Titre
 pages:
+- content/competences/méthodologies-et-technologies-innovantes.md
 - content/competences/compétences-techniques-et-scientifiques-terrain-laboratoire.md
 - content/competences/gestion-de-bases-de-données-analyses-de-données-traitements-statistiques.md
 - content/competences/urbanisme-opérationnel-planification-territoriale.md
