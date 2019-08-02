@@ -27,6 +27,6 @@ fields:
   label: Image
   default: "/uploads/default_person_pic.png"
 pages:
+- content/equipe/dr-apolline-auclerc.md
 - content/equipe/pr-christophe-schwartz.md
 - content/equipe/dr-jean-noël-consalès.md
-- content/equipe/dr-apolline-auclerc.md
