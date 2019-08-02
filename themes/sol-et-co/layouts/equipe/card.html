@@ -1,19 +1,22 @@
-<a class="5" href="{{ .RelPermalink }}">
-  
+ 
   <div class="card equipe-card is-flex">
     {{ with .Params.picture }}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
       {{ $resized := $imageResource.Fill "300x400" }}
         <div class="card-image">
           <figure class="image is-3by4">
-            <img src="{{ $resized.RelPermalink }}" alt="{{ $resized.Title }}">
+            <a class="" href="{{ $.RelPermalink }}">
+              <img src="{{ $resized.RelPermalink }}" alt="{{ $resized.Title }}">
+            </a>
           </figure>
         </div>
     {{ end }}
     <div class="card-content">
-      <h4 class="title is-size-5">{{ .Title }}</h4>
+      <a class="" href="{{ $.RelPermalink }}">
+        <h4 class="title is-size-5">{{ .Title }}</h4>
+      </a>
       <p class="subtitle is-size-6">{{ .Params.subtitle }}</p>
-      <p class='is-size-7'>{{ .Params.summary }}</p>
+      <p class=''>{{ .Params.summary }}</p>
+      <a href="{{ .RelPermalink }}" class="button is-primary mt-3">En savoir plus</a>
     </div>
   </div>
-</a>

@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+{{- partial "page-header.html" . -}}
+
+<section class="section ">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-one-third">
+      {{ with .Params.picture }}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+      {{ $resized := $imageResource.Fill "600x800" }}
+      <div class="card-image">
+        <figure class="image is-3by4">
+          <a class="" href="{{ $.RelPermalink }}">
+            <img src="{{ $resized.RelPermalink }}" alt="{{ $resized.Title }}">
+          </a>
+        </figure>
+      </div>
+      {{ end }}
+      </div>
+      <div class="column is-two-third">
+        <div class="content">
+          {{ .Params.summary }}
+        </div>
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+{{ end }}
