@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+  {{- partial "page-header.html" . -}}
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-5 is-offset-2">
+        <div class="box">
+          <form name="contact" netlify>
+            <div class="field">
+              <label class="label">Email</label>
+              <div class="control ">
+                <input class="input " type="email" name="email">
+              </div>
+              <p class="help">Afin que nous puissions vous recontacter</p>
+            </div>
+
+            <div class="field">
+              <label class="label">Message</label>
+              <div class="control">
+                <textarea class="textarea" name="message" placeholder="Textarea"></textarea>
+              </div>
+            </div>
+              <button class='button is-primary' type="submit">Envoyer</button>
+          </form>
+        </div>
+
+      </div>
+      <div class="column is-3">
+        <div class="box content">
+          <p>
+            {{.Site.Data.global.nom_entreprise}}
+            <br>
+            {{.Site.Data.global.adresse_entreprise}}
+            <br>
+            {{.Site.Data.global.ville_entreprise}}
+          </p>
+          <p>
+            {{ with .Site.Data.global.email_entreprise }}
+            <a href="mailto:{{ . }}">{{ . }}</a>
+            {{ end }}
+            <br>
+            {{ with .Site.Data.global.telephone_entreprise }}
+            <a href="tel:{{ . }}">{{ . }}</a>
+            {{ end }}
+          </p>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
