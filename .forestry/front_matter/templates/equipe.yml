@@ -20,3 +20,9 @@ fields:
   name: summary
   label: Description courte
   description: Affichée dans les vignettes de la page Qui sommes-nous
+- name: picture
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  default: "/uploads/default_person_pic.png"
