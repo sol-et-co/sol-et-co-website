@@ -12,3 +12,5 @@ fields:
   name: website
   label: Url site internet
   description: Un site où trouver + d'infos sur le prix
+pages:
+- content/recompenses/appel-à-projets-entrepreneurial-pour-la-transition-écologique.md
