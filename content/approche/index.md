@@ -1,22 +1,13 @@
 ---
 headless: true
 title: "Notre approche"
-subtitle: "Une chouette phrase d'accroche"
+subtitle: "Pour un aménagement du territoire optimisé par la prise en compte des caractéristiques physiques, chimiques et biologiques des sols"
 image_bandeau: "/uploads/IMG_5247.jpg"
 image_droite: "/uploads/IMG_5410.jpg"
 ---
 
-### Titre premier
+Les sols, y compris en ville, sont capables de fonctionner pour fournir des bienfaits indispensables à la survie des sociétés humaines. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate. Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Par exemple, ils stockent du carbone pour réguler le climat local, ils infiltrent l’eau pour participer à la régulation des inondations, ils participent également à la production alimentaire. Dans une perspective de transition écologique, la question de la qualité des sols est essentielle. 
 
-Sed risus pretium quam vulputate. Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-
-### Suite du texte
-
-Sed risus pretium quam vulputate. Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-Sed risus pretium quam vulputate. Sed felis eget velit aliquet sagittis id consectetur purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Prendre en compte leurs caractéristiques agronomiques (fertilité, biodiversité) et sanitaire (pollution) dans la définition de leurs usages permettra d’améliorer leurs réponses aux enjeux durables du développement urbain, d’imaginer une nouvelle manière de construire les villes écologiques de demain, et de protéger cette ressource (sols agricoles, forestiers, urbains) non renouvelable

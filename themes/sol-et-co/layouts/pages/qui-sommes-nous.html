@@ -2,7 +2,7 @@
 
 <!-- Approche -->
 {{ $approche := .Site.GetPage "/approche" }}
-<section class="section">
+<section class="section has-background-white-ter">
 <div class="container">
     <h2 class="title has-text-centered is-spaced mt-5">{{ $approche.Title }}</h2>
     {{ with $approche.Params.subtitle }}
@@ -17,7 +17,7 @@
     <img src="{{ $resized.RelPermalink }}">
   </figure>
 {{ end }}
-<section class="section">
+<section class="section has-background-white-ter">
 <div class="container">
     <div class="columns">
       <div class="column is-two-third">
@@ -33,6 +33,35 @@
             <img src="{{ $resized.RelPermalink }}">
           </figure>
         {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Historique -->
+{{ $historique := .Site.GetPage "/historique" }}
+<section class="section">
+  <div class="container">
+    <h2 class="title has-text-centered is-spaced mt-5">{{ $historique.Title }}</h2>
+    {{ with $historique.Params.subtitle }}
+    <p class="subtitle has-text-centered mb-5">{{ . }}</p>
+    {{ end }}
+  </div>
+  <div class="container">
+    <div class="columns">
+      <div class="column is-one-third">
+        {{ with $historique.Params.image }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ $resized := $imageResource.Resize "600x" }}
+        <figure class="image">
+          <img src="{{ $resized.RelPermalink }}">
+        </figure>
+        {{ end }}
+      </div>
+      <div class="column is-two-third">
+        <div class="content">
+          {{ $historique.Content }}
+        </div>
       </div>
     </div>
   </div>
@@ -57,22 +86,5 @@
     </div>
   </div>
 </section>
-
-
-<div class="container">
-  <section class="section content ">
-
-    <h1>{{ .Title }}</h1>
-    <br><br>
-    section : {{ .Section }}
-    <br>
-    kind : {{ .Kind }}
-    <br>
-    type : {{ .Type }}
-    <br><br>
-    {{ .Content }}
-  </section>
-</div>
-
 
 {{ end }}
