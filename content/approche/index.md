@@ -2,11 +2,8 @@
 headless: true
 title: "Notre approche"
 subtitle: "Une chouette phrase d'accroche"
-resources:
-  - name: image_bandeau
-    src: IMG_5247.jpg
-  - name: image_droite
-    src: IMG_5410.jpg
+image_bandeau: "/uploads/IMG_5247.jpg"
+image_droite: "/uploads/IMG_5410.jpg"
 ---
 
 ### Titre premier

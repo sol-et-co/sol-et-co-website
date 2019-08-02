@@ -6,8 +6,7 @@
 
       <div class="columns is-multiline">
         {{ range .Pages.ByTitle }}
-        <div class="column is-one-quarter">
-          {{ .Title}}
+        <div class="column is-one-third">
           {{ .Render "card"}}
         </div>
         {{ end }}

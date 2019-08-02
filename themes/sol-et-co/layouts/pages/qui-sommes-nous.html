@@ -10,9 +10,11 @@
     {{ end }}
   </div>
 </section>
-{{ with $approche.Resources.GetMatch "image_bandeau" }}
+{{ with $approche.Params.image_bandeau }}
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ $resized := $imageResource.Fill "1900x500" }}
   <figure class="image">
-    <img src="{{ .RelPermalink }}">
+    <img src="{{ $resized.RelPermalink }}">
   </figure>
 {{ end }}
 <section class="section">
@@ -24,10 +26,12 @@
         </div>
       </div>
       <div class="column is-one-third">
-        {{ with $approche.Resources.GetMatch "image_droite" }}
-        <figure class="image">
-          <img src="{{ .RelPermalink }}">
-        </figure>
+        {{ with $approche.Params.image_droite }}
+          {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+          {{ $resized := $imageResource.Resize "600x" }}
+          <figure class="image">
+            <img src="{{ $resized.RelPermalink }}">
+          </figure>
         {{ end }}
       </div>
     </div>
