@@ -1,6 +1,6 @@
 ---
 title: "Home page"
-subtitle: "yop oh"
+subtitle: 
 date: 2019-07-12T11:09:39+02:00
 resources:
 - src: '*.jpg'

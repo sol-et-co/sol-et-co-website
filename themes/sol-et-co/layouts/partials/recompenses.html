@@ -1,17 +1,19 @@
 <nav class="level">
-  {{ range $resource := .Resources.Match "recompense-**" }}
-  {{ $image := $resource.Resize "150x" }}
+  {{ range where .Site.Pages "Type" "recompenses" }}
+
     <div class="level-item has-text-centered">
       <div>
-        <a href="{{ .Params.Url  }}" target='_blank'>
-          <figure class="image is-128x128">
-            <img src="{{ $image.RelPermalink }}">
-          </figure>
-          <p class="heading">{{ $image.Title }}</p>
-          <!-- <p class="title">{{ $image.Name }}</p> -->
+        <a href="{{ .Params.website  }}" target='_blank'>
+          {{ with .Params.picture }}
+          {{ print . }}
+          {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+          {{ print $imageResource}}
+ 
+          {{ end }}
+
+          <p class="heading">{{ .Title }}</p>
         </a>
       </div>
     </div>
   {{ end }}
 </nav>
-
