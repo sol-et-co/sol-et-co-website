@@ -26,3 +26,5 @@ fields:
     maxSize: 250
   label: Image
   default: "/uploads/default_person_pic.png"
+pages:
+- content/equipe/dr-apolline-auclerc.md
