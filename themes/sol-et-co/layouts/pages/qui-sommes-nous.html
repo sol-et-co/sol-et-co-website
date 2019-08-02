@@ -36,7 +36,7 @@
 
 <!-- Equipe -->
 {{ $equipe := .Site.GetPage "/equipe" }}
-<section class="section">
+<section class="section has-background-white-ter">
   <div class="container">
     <h2 class="title has-text-centered is-spaced mt-5">{{ $equipe.Title }}</h2>
     {{ with $equipe.Params.subtitle }}
@@ -46,7 +46,7 @@
   <div class="container">
     <div class="columns">
       {{ range $equipe.Pages }}
-      <div class="column is-one-third">
+      <div class="column is-one-half">
         {{ .Render "card"}}
       </div>
       {{ end }}

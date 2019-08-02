@@ -1,9 +1,10 @@
 ---
 date: "{{ .Date }}"
 title: "{{ replace .Name "-" " " | title }}"
-subtitle: ""
+subtitle: "Membre de l'équipe"
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate."
+picture: ""
 weight: ''
-summary: ""
 draft: false
 ---
 
