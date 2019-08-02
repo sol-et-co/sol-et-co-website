@@ -1,17 +1,42 @@
 {{ define "main" }}
 
-{{- partial "page-header.html" . -}}
-  <section class="section ">
+  {{- partial "page-header.html" . -}}
+
+  <section class="section pt-0 mb-5">
     <div class="container">
-      
       <div class="columns">
-        {{ range .Pages.ByPublishDate.Reverse }}
+        {{ range .Pages.ByWeight }}
         <div class="column">
-          {{ .Render "card"}}
+          <a class="" href="#{{ .Params.prestation_key }}">
+            {{ .Render "card"}}
+          </a>
         </div>
         {{ end }}
       </div>
-
     </div>
   </section>
+  {{ range .Pages.ByWeight }}
+  <section id="{{ .Params.prestation_key }}" class="section {{ if (mod .Weight 2)  0 }}has-background-white-ter{{ end }}">
+    <div class="container">
+      <div class="title-header has-text-centered mt-3 mb-5">
+        <h2 class="title is-3 "> {{ .Title }} </h2>
+        <p class="subtitle is-4"> {{ .Params.subtitle }} </h2>
+      </div>
+      <div class="columns">
+        <div class="column is-one-third">
+          {{ .Render "card"}}
+        </div>
+        <div class="column is-two-third">
+          <div class="content">
+
+            {{ .Content }}
+          </div>
+          <a class="button is-primary mt-4" href="#">Voir les réalisations</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+
 {{ end }}

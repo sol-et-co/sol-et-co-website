@@ -27,7 +27,9 @@
         {{ $prestations := where .Site.RegularPages "Type" "prestations" }}
         {{ range $prestations }}
           <div class="column">
-            {{ .Render "card"}}
+            <a class="" href="/prestations/#{{ .Params.prestation_key }}">
+              {{ .Render "card"}}
+            </a>
           </div>
         {{ end }}
       </div>

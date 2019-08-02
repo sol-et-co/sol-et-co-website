@@ -24,7 +24,7 @@ fields:
     options:
     - etude-diagnostic-conseil
     - formation-professionnelle
-    - sensibilisation-mediation
+    - sensibilisation-animation
 - type: datetime
   name: execution_date
   label: Date de réalisation
