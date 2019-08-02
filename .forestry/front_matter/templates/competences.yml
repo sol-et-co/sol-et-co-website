@@ -6,5 +6,6 @@ fields:
   name: title
   label: Titre
 pages:
+- content/competences/urbanisme-opérationnel-planification-territoriale.md
 - content/competences/ecologie-des-sols.md
 - content/competences/agronomie-pédologie.md
