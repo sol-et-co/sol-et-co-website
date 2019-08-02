@@ -1,5 +1,4 @@
 ---
-headless: true
 date: '2019-08-02T15:07:49+02:00'
 title: Prix Pépite
 picture: "/uploads/logo_pepite.jpg"
