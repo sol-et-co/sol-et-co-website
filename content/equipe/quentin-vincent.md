@@ -10,5 +10,4 @@ summary: Diplômé d’un Master en d’Ecotoxicologie et Ecologie des Systèmes
   biologiques, pédagogie ainsi qu’en gestion, analyse et traitement statistiques des
   données environnementales.
 picture: "/uploads/Photo_QV.jpg"
-
 ---

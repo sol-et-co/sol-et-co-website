@@ -8,7 +8,6 @@ summary: Diplômée d’un Master en Urbanisme et Aménagement du Territoire (In
   Lorraine), Anne Blanchart apporte à la société ses compétences en planification
   du territoire, urbanisme opérationnel, droit de l’environnement et pédologie urbaine…
 picture: "/uploads/Anne Blanchart.JPG"
-
 ---
 Diplômée d’un Master en Urbanisme et Aménagement du Territoire (Institut Français de l’Urbanisme) et d’un Doctorat en Sciences Agronomiques (Université de Lorraine), Anne Blanchart apporte à la société ses compétences en planification du territoire, urbanisme opérationnel, droit de l’environnement et pédologie urbaine…
 
