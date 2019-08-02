@@ -1,0 +1,19 @@
+---
+label: recompenses
+hide_body: false
+fields:
+- type: boolean
+  name: headless
+  label: headless
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: picture
+  label: picture
+- type: text
+  name: website
+  label: website
