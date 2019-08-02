@@ -9,31 +9,31 @@ sections:
 - type: directory
   path: content/prestations
   label: Prestations
-  create: all
+  create: documents
   match: "**/*"
   templates:
-  - page-standard
   - prestation
+  - page-standard
 - type: directory
   path: content/realisations
   label: Realisations
-  create: all
+  create: documents
   match: "**/*"
   templates:
-  - page-standard
   - realisations
+  - page-standard
 - type: directory
   path: content/competences
   label: Competences
-  create: all
+  create: documents
   match: "**/*"
   templates:
-  - page-standard
   - competences
+  - page-standard
 - type: directory
   path: content/recompenses
   label: Recompenses
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - recompenses
@@ -41,17 +41,17 @@ sections:
 - type: directory
   path: content/pages
   label: Pages
-  create: all
+  create: documents
   match: "**/*"
   templates:
-  - page-ressources
   - page-standard
+  - page-ressources
 - type: heading
   label: Qui sommes-nous
 - type: directory
   path: content/approche
   label: Approche
-  create: all
+  create: none
   match: "**/*"
   templates:
   - page-ressources
