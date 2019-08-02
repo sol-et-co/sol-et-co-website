@@ -5,7 +5,7 @@ title: Sol & Co
 theme: sol-et-co
 DefaultContentLanguage: fr
 params:
-  author: Yop
+  author: L'assembleuse
   dateFormat: Jan 2, 2006
 permalinks:
   pages: "/:filename/"
