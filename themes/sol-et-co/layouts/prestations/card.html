@@ -1,4 +1,13 @@
-<div class="card has-text-centered has-background-secondary">
+<div class="card prestation-card has-text-centered has-background-secondary">
+  {{ $image := partial "prestation-icon.html" . }}
+  {{ with $image }}
+    {{ $pic := $image.Fill "400x400"}}
+    <div class="card-image">
+      <figure class="image ">
+        <img src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">
+      </figure>
+    </div>
+  {{ end }}
   <div class="card-content ">
     <h4 class="title is-5 has-text-white">{{ .Title }}</h4>
     <p class="subtitle is-6 has-text-white">{{ .Params.subtitle }}</p>

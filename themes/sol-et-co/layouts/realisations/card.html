@@ -15,6 +15,11 @@
       {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
       {{ range $prestation }}
       <p><span class="has-text-weight-bold">Prestation : </span>{{ .Title }}</p>
+        {{ $image := partial "prestation-icon.html" . }}
+        {{ with $image }}
+        {{ $pic := $image.Fill "200x200"}}
+        <img src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">
+        {{ end }}
       {{ end }}
       {{ with .Params.partenaire}}
         <p><span class="has-text-weight-bold">Partenaire : </span> {{ .}}</p>
