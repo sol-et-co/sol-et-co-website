@@ -8,7 +8,7 @@ prestation_key: "formation-professionnelle"
 execution_date: "en cours de réalisation"
 partenaire: "OrgaNeo"
 in_home_page: true
-objective: "adaptation et animation d’un module de formation « Guide composteur » pour améliorer les contenus pédagogiques de ce stage avec des contenus théoriques et des outils pédagogiques spécialisés en sciences du sol, afin de former les guides composteur au compostage de proximité en prenant en compte les caractéristiques bio-physico-chimiques des sols"
+image: "/uploads/Photo_AA.jpg"
 ---
 
 **Objectif :** adaptation et animation d’un module de formation « Guide composteur » pour améliorer les contenus pédagogiques de ce stage avec des contenus théoriques et des outils pédagogiques spécialisés en sciences du sol, afin de former les guides composteur au compostage de proximité en prenant en compte les caractéristiques bio-physico-chimiques des sols

@@ -1,0 +1,8 @@
+{{ $image := false }}
+{{ with .Params.image }}
+  {{ $image = ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+{{ else }}
+  {{ $default_file_name := printf "%s%s%s" "/uploads/default-" .Params.prestation_key ".jpg"}}
+  {{ $image = ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" $default_file_name) }}
+{{ end }}
+{{ return $image }}

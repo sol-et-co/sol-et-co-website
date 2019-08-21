@@ -8,7 +8,6 @@ prestation_key: "sensibilisation-animation"
 execution_date: "24 avril 2019"
 partenaire: "Ville de Vandœuvre-lès-Nancy"
 in_home_page: true
-objective: "conférence de vulgarisation scientifique sur le sujet de la biodiversité des sols et du jardinage"
 ---
 
 **Objectif :** conférence de vulgarisation scientifique sur le sujet de la biodiversité des sols et du jardinage

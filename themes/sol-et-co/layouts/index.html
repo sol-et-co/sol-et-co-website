@@ -54,14 +54,6 @@
         </div>
         {{ end }}
       </div>
-      <div class="columns is-multiline">
-        {{ $realisations := where (where .Site.RegularPages "Type" "realisations") ".Params.in_home_page" true }}
-        {{ range first 3 ( $realisations ) }}
-        <div class="column is-12">
-          {{ .Render "card"}}
-        </div>
-        {{ end }}
-      </div>
     </div>
     <div class="container mt-4 has-text-right">
       {{ $realisation := .Site.GetPage "/realisations" }}
