@@ -1,4 +1,4 @@
-# Sol & Co website
+# Sol &co website
 
 ## Commands
 

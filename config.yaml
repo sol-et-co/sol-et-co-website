@@ -1,7 +1,7 @@
 ---
 baseURL: https://sol-et-co.netlify.com
 languageCode: fr-fr
-title: Sol & Co
+title: Sol &co
 theme: sol-et-co
 DefaultContentLanguage: fr
 params:
