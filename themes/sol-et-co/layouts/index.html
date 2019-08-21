@@ -1,6 +1,7 @@
 {{ define "main" }}
 <main aria-role="main">
-  <section class="hero is-primary is-bold is-large">
+  {{ $home_picture := resources.Get "images/Profil_sol_page accueil_1.jpg" }}
+  <section class="hero is-home-pictured is-bold is-fullheight" style="background-image: url('{{ $home_picture.Permalink }}')">
     <div class="hero-body">
       <div class="container">
         <h1 class="title is-spaced">
