@@ -37,7 +37,7 @@
     </div>
   </section>
   <!-- Réalisations -->
-  <!-- <section class="section">
+  <section class="section">
     <div class="container">
       <div class="has-text-centered mb-5">
         <h3 class="title is-3 heading has-text-weight-light">Nos réalisations</h3>
@@ -47,15 +47,28 @@
         </p>
       </div>
       <div class="columns">
-        {{ $realisations := where .Site.RegularPages "Type" "realisations" }}
-        {{ range $realisations }}
-        <div class="column">
+        {{ $realisations := where (where .Site.RegularPages "Type" "realisations") ".Params.in_home_page" true }}
+        {{ range first 3 ( $realisations ) }}
+        <div class="column is-4">
+          {{ .Render "card"}}
+        </div>
+        {{ end }}
+      </div>
+      <div class="columns is-multiline">
+        {{ $realisations := where (where .Site.RegularPages "Type" "realisations") ".Params.in_home_page" true }}
+        {{ range first 3 ( $realisations ) }}
+        <div class="column is-12">
           {{ .Render "card"}}
         </div>
         {{ end }}
       </div>
     </div>
-  </section> -->
+    <div class="container mt-4 has-text-right">
+      {{ $realisation := .Site.GetPage "/realisations" }}
+      <a class="button is-primary" href="{{ $realisation.Permalink }}">Voir toutes les réalisations</a>
+    </div>
+    
+  </section>
   <!-- Recompenses -->
   <section class="section">
     <div class="container">

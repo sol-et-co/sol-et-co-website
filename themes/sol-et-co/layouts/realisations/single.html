@@ -7,26 +7,18 @@
         {{ .Content }}
       </div>
       <div class="column">
-            
-            section : {{ .Section }}
-            <br>
-            kind : {{ .Kind }}
-            <br>
-            type : {{ .Type }}
-            <br><br>
+
         {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
         {{ range $prestation }}
-          Prestation : {{ .Title }}
+          <span class="has-text-weight-bold">Prestation : </span>{{ .Title }}
         {{ end }}
         <br>
-        {{ with .Params.place}}
-          Lieu : {{ .}}
+        {{ with .Params.partenaire}}
+          <span class="has-text-weight-bold">Partenaire : </span>{{ .}}
         {{ end }}
         <br>
         {{ with .Params.execution_date}}
-          {{ $dateTime := dateFormat "2006-01-02T15:04:05Z07:00" . }}
-          Date : <time datetime="{{ $dateTime }}">{{ dateFormat "January 2006" . }}</time>
-          <br>
+          <p><span class="has-text-weight-bold">Date : </span>{{ . }}</p>
         {{ end }}
       </div>
     </div>

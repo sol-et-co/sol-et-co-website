@@ -6,7 +6,8 @@ draft: false
 competences: []
 prestation_key: ""
 execution_date: ""
-place: ""
+partenaire: ""
+in_home_page: false
 ---
 
 Lorem ipsum summary of the realisation.
