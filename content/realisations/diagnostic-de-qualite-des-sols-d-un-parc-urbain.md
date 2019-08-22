@@ -1,12 +1,10 @@
 ---
-date: 2019-08-21T13:57:19+02:00
+date: '2019-08-21T11:57:19.000+00:00'
 title: Diagnostic de qualité des sols d'un parc urbain
-type: "realisations"
-draft: false
 competences: []
-prestation_key: "etude-diagnostic-conseil"
-execution_date: "en cours de réalisation"
-partenaire: "Ville de Nancy, direction Parcs et Jardins"
+prestation_key: etude-diagnostic-conseil
+execution_date: 2019-09-14T22:00:00+00:00
+partenaire: Ville de Nancy, direction Parcs et Jardins
 in_home_page: true
 ---
 
