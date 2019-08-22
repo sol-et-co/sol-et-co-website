@@ -1,8 +1,9 @@
-<section class="section">
-  <div class="container">
-    <h1 class="title has-text-centered is-spaced mt-5">{{ .Title }}</h1>
+<section class="section has-background-white-ter">
+  <div class="container has-text-centered">
+    <h1 class="title is-spaced is-3 heading has-text-weight-light mt-5">{{ .Title }}</h1>
     {{ with .Params.subtitle }}
-    <p class="subtitle has-text-centered mb-5">{{ . }}</p>
+    <p class="subtitle is-4 has-text-weight-bold mb-3">{{ . }}</p>
     {{ end }}
   </div>
 </section>
+
