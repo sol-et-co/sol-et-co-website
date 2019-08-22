@@ -8,5 +8,7 @@ partenaire: Ville de Vandœuvre-lès-Nancy
 in_home_page: true
 ---
 
-**Objectif :** conférence de vulgarisation scientifique sur le sujet de la biodiversité des sols et du jardinage
+## Objectif
+
+Conférence de vulgarisation scientifique sur le sujet de la biodiversité des sols et du jardinage.
 <!--more-->
