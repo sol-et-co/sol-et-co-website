@@ -1,16 +1,31 @@
 {{ define "main" }}
-{{- partial "page-header.html" . -}}
-<section class="section ">
-  <div class="container">
-    <div class="columns is-multiline">
-      {{ $pages:= .Pages.ByDate }}
-      {{ range $pages.Reverse }}
-      <div class="column is-one-third">
-        {{ .Render "card"}}
-      </div>
-      {{ end }}
-    </div>
+  {{- partial "page-header.html" . -}}
 
-  </div>
-</section>
+  {{ $prestations := where .Site.RegularPages "Type" "prestations" }}
+  {{ range $prestations }}
+    <section id="{{ .Params.prestation_key }}" class="section {{ if (mod .Weight 2)  0 }}has-background-white-ter{{ end }}">
+      <div class="container">
+        <div class="realisations-list-header">
+          {{ $image := partial "prestation-icon.html" . }}
+          {{ with $image }}
+          {{ $pic := $image.Fill "50x50"}}
+          <img class="mr-2" src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">
+          {{ end }}
+          <h2 class="title is-3 heading has-text-weight-light">
+            {{ .Title }}
+          </h2>
+        </div>
+        <div class="columns is-multiline">
+          {{ $pages := where (where .Site.RegularPages "Type" "realisations") ".Params.prestation_key" .Params.prestation_key }}
+          {{ range $pages.Reverse }}
+          <div class="column is-one-third">
+            {{ .Render "card"}}
+          </div>
+          {{ end }}
+        </div>
+
+      </div>
+    </section>
+  {{ end }}
+
 {{ end }}
