@@ -32,10 +32,12 @@
         </p>
         <p>
           {{ with .Site.Data.global.email_entreprise }}
+          <i class="far fa-envelope mr-1"></i>
           <a href="mailto:{{ . }}">{{ . }}</a>
           {{ end }}
           <br>
           {{ with .Site.Data.global.telephone_entreprise }}
+          <i class="fas fa-phone mr-1"></i>
           <a href="tel:{{ . }}">{{ . }}</a>
           {{ end }}
         </p>

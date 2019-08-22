@@ -1,6 +1,6 @@
 <a class="" href="{{ .RelPermalink }}">
   
-  <div class="card">
+  <div class="card realisation-card">
     {{ $image := partial "realisation-picture.html" . }}
     {{ with $image }}
       {{ $pic := $image.Fill "600x400"}}
@@ -12,21 +12,27 @@
     {{ end }}
     <div class="card-content">
       <h4 class="title is-5">{{ .Title }}</h4>
-      {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
-      {{ range $prestation }}
-      <p><span class="has-text-weight-bold">Prestation : </span>{{ .Title }}</p>
-        {{ $image := partial "prestation-icon.html" . }}
-        {{ with $image }}
-        {{ $pic := $image.Fill "200x200"}}
-        <img src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">
-        {{ end }}
-      {{ end }}
-      {{ with .Params.partenaire}}
-        <p><span class="has-text-weight-bold">Partenaire : </span> {{ .}}</p>
-      {{ end }}
-      {{ with .Params.execution_date}}
-        <p><span class="has-text-weight-bold">Date : </span> {{ . }}</p>
-      {{ end }}
+      <div class="columns is-mobile">
+        <div class="column prestation-column is-one-third">
+          {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
+          {{ range $prestation }}
+            {{ $image := partial "prestation-icon.html" . }}
+            {{ with $image }}
+              {{ $pic := $image.Fill "100x100"}}
+              <img src="{{ $pic.Permalink }}" alt="icon {{$.Title }}">
+            {{ end }}
+            <p class="">{{ .Title }}</p>
+          {{ end }}
+        </div>
+        <div class="column">
+          {{ with .Params.partenaire}}
+            <p><span class="has-text-weight-bold">Partenaire : </span><br> {{ .}}</p>
+          {{ end }}
+          {{ with .Params.execution_date}}
+            <p class="mt-2"><i class="far fa-calendar-alt mr-1"></i> {{ . }}</p>
+          {{ end }}
+        </div>
+      </div>
     </div>
   </div>
 </a>
