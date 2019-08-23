@@ -17,7 +17,7 @@
         </div>
         <div class="columns is-multiline">
           {{ $pages := where (where .Site.RegularPages "Type" "realisations") ".Params.prestation_key" .Params.prestation_key }}
-          {{ range $index, $element := $pages.Reverse }}
+          {{ range $index, $element := ($pages.ByParam "execution_date").Reverse }}
           <div class="column is-one-third" data-aos="fade-up" data-aos-delay="{{ mul $index 800 }}" data-aos-duration="1500">
             {{ .Render "card"}}
           </div>

@@ -5,8 +5,6 @@ subtitle: Pour un aménagement du territoire optimisé par la prise en compte de
   physiques, chimiques et biologiques des sols
 image_bandeau: "/uploads/Photo bandeau paysage urbain page qui sommes-nous_1.jpeg"
 image_droite: "/uploads/Photo animation 1-2 page qui sommes-nous_1.jpg"
-resources:
-- {}
 
 ---
 Les sols, y compris en ville, sont capables de fonctionner pour fournir des bienfaits indispensables à la survie des sociétés humaines.

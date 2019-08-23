@@ -19,6 +19,9 @@
           {{ $current := . }}
           {{ range .Site.Menus.main }}
             {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+            {{ $active = or $active (eq .Page $current) }}
+            {{ $active = or $active (eq .Page.Section $current.Section) }}
+            {{ $active = or $active (and (eq .Name "Qui sommes-nous") (eq $current.Section "equipe")) }}
             {{ $text := print .Name | safeHTML }}
             <a class="navbar-item {{ if $active }}active{{ end }}" href="{{ .URL }}">{{ $text }}</a>
           {{ end }}

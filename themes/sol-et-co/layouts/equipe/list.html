@@ -7,7 +7,7 @@
 
 <div class="columns is-multiline">
   {{ range $index, $element := .Pages }}
-  <div class="column" data-aos="fade-in" data-aos-delay="200" data-aos-duration="1500">
+  <div class="column is-half" data-aos="fade-in" data-aos-delay="200" data-aos-duration="1500">
     {{ .Render "card"}}
   </div>
   {{ end }}

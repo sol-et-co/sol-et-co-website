@@ -22,21 +22,21 @@
 {{ end }}
 <section class="section has-background-white-ter">
 <div class="container">
-    <div class="columns">
-      <div class="column is-two-third" data-aos="fade-right" data-aos-delay="0" data-aos-duration="1500">
+    <div class="columns is-centered">
+      <div class="column is-two-thirds" data-aos="fade-right" data-aos-delay="0" data-aos-duration="1500">
         <div class="content">
           {{ $approche.Content }}
         </div>
       </div>
+      {{ with $approche.Params.image_droite }}
       <div class="column is-one-third" data-aos="fade-left" data-aos-delay="0" data-aos-duration="1500">
-        {{ with $approche.Params.image_droite }}
           {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
           {{ $resized := $imageResource.Resize "600x" }}
           <figure class="image">
             <img src="{{ $resized.RelPermalink }}">
           </figure>
+        </div>
         {{ end }}
-      </div>
     </div>
   </div>
 </section>
@@ -54,17 +54,17 @@
     {{ end }}
   </div>
   <div class="container">
-    <div class="columns">
+    <div class="columns is-centered">
+      {{ with $historique.Params.image }}
       <div class="column is-one-third" data-aos="fade-right" data-aos-delay="0" data-aos-duration="1500">
-        {{ with $historique.Params.image }}
         {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
         {{ $resized := $imageResource.Resize "600x" }}
         <figure class="image">
           <img src="{{ $resized.RelPermalink }}">
         </figure>
-        {{ end }}
       </div>
-      <div class="column is-two-third" data-aos="fade-left" data-aos-delay="0" data-aos-duration="1500">
+      {{ end }}
+      <div class="column is-two-thirds" data-aos="fade-left" data-aos-delay="0" data-aos-duration="1500">
         <div class="content">
           {{ $historique.Content }}
         </div>
