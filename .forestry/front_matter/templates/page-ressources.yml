@@ -10,13 +10,15 @@ fields:
 - type: text
   name: subtitle
   label: Sous-titre
-- type: field_group_list
-  name: resources
-  label: Images
-  fields:
-  - type: text
-    name: name
-    label: Nom
-  - type: file
-    name: src
-    label: Source
+- name: image_bandeau
+  type: file
+  config:
+    maxSize: 250
+  label: Image bandeau
+  description: Image qui apparaitra en haut de la partie
+- name: image_droite
+  type: file
+  config:
+    maxSize: 250
+  label: Image de droite
+  description: Image qui apparaîtra à droite du texte
