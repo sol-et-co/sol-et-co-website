@@ -5,7 +5,7 @@
   {{ range $prestations }}
     <section id="{{ .Params.prestation_key }}" class="section {{ if (mod .Weight 2)  0 }}has-background-white-ter{{ end }}">
       <div class="container">
-        <div class="realisations-list-header">
+        <div class="realisations-list-header" data-aos="fade-in" data-aos-delay="500" data-aos-duration="1500">
           {{ $image := partial "prestation-icon.html" . }}
           {{ with $image }}
           {{ $pic := $image.Fill "50x50"}}
@@ -17,8 +17,8 @@
         </div>
         <div class="columns is-multiline">
           {{ $pages := where (where .Site.RegularPages "Type" "realisations") ".Params.prestation_key" .Params.prestation_key }}
-          {{ range $pages.Reverse }}
-          <div class="column is-one-third">
+          {{ range $index, $element := $pages.Reverse }}
+          <div class="column is-one-third" data-aos="fade-up" data-aos-delay="{{ mul $index 800 }}" data-aos-duration="1500">
             {{ .Render "card"}}
           </div>
           {{ end }}

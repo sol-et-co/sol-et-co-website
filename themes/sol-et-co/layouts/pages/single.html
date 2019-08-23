@@ -1,23 +1,13 @@
 {{ define "main" }}
 
-<div class="container">
-  <section class="section">
-    <h2 class="title has-text-centered is-spaced mt-5">{{ .Title }}</h3>
-      {{ with .Params.subtitle }}
-      <p class="subtitle has-text-centered mb-5">{{ . }}</p>
-      {{ end }}
-  </section>
-</div>
-<div class="container">
-  <section class="section ">
-    section : {{ .Section }}
-    <br>
-    kind : {{ .Kind }}
-    <br>
-    type : {{ .Type }}
-    <br><br>
-    {{ .Content }}
-  </section>
-</div>
+{{- partial "page-header.html" . -}}
+
+<section class="section has-background-white-ter">
+  <div class="container">
+    <div class="box content" data-aos="fade-up" data-aos-delay="0" data-aos-duration="1500">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
 
 {{ end }}

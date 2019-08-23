@@ -5,8 +5,8 @@
     <div class="container">
 
       <div class="columns is-multiline">
-        {{ range .Pages.ByTitle }}
-        <div class="column is-one-third">
+        {{ range $index, $element := .Pages.ByTitle }}
+        <div class="column is-one-third" data-aos="fade-in" data-aos-delay="200" data-aos-duration="1500">
           {{ .Render "card"}}
         </div>
         {{ end }}

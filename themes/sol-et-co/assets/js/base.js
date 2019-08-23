@@ -1,3 +1,7 @@
+// INITIALISATION ==================================================
+
+AOS.init();
+
 document.addEventListener('DOMContentLoaded', function () {
 
   // NAVBAR ==========================================================

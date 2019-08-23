@@ -11,9 +11,3 @@ menu:
     weight: 1
 
 ---
-Lorem ipsum summary of the page.
-<!--more-->
-Lorem ipsum rest of the page.<br>nous sommes...
-
-
-lla

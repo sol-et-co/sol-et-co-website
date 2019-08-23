@@ -1,4 +1,5 @@
 {{ $plugins := resources.Get "js/plugins.js" }}
+{{ $aos := resources.Get "js/aos.js" }}
 {{ $base := resources.Get "js/base.js" }}
-{{ $js := slice $plugins $base | resources.Concat "js/bundle.js" }}
+{{ $js := slice $plugins $aos $base | resources.Concat "js/bundle.js" }}
 <script src="{{ $js.RelPermalink }}"></script>

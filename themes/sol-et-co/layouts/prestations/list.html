@@ -5,8 +5,8 @@
   <section class="section pt-0 pb-5 has-background-white-ter">
     <div class="container">
       <div class="columns">
-        {{ range .Pages.ByWeight }}
-        <div class="column">
+        {{ range $index, $element := .Pages.ByWeight }}
+        <div class="column" data-aos="fade-up" data-aos-delay="{{ mul $index 800 }}" data-aos-duration="1500">
           <a class="" href="#{{ .Params.prestation_key }}">
             {{ .Render "card"}}
           </a>
@@ -19,14 +19,14 @@
   <section id="{{ .Params.prestation_key }}" class="section {{ if (modBool .Weight 2) true }}has-background-white-ter{{ end }}">
     <div class="container">
       <div class="title-header has-text-centered mt-3 mb-5">
-        <h2 class="title is-3 "> {{ .Title }} </h2>
-        <p class="subtitle is-4"> {{ .Params.subtitle }} </h2>
+        <h2 class="title is-3" data-aos="fade-in" data-aos-delay="400" data-aos-duration="1500"> {{ .Title }} </h2>
+        <p class="subtitle is-4" data-aos="fade-in" data-aos-delay="800" data-aos-duration="1500"> {{ .Params.subtitle }} </h2>
       </div>
       <div class="columns">
-        <div class="column is-one-third">
+        <div class="column is-one-third" data-aos="fade-right" data-aos-delay="0" data-aos-duration="1500">
           {{ .Render "card"}}
         </div>
-        <div class="column is-two-third">
+        <div class="column is-two-third" data-aos="fade-left" data-aos-delay="0" data-aos-duration="1500">
           <div class="content">
 
             {{ .Content }}
