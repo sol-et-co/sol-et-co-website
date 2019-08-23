@@ -56,6 +56,13 @@ sections:
   templates:
   - page-ressources
 - type: directory
+  path: content/historique
+  label: Sol &co
+  create: none
+  match: "**/*"
+  templates:
+  - page-ressources
+- type: directory
   path: content/equipe
   label: Equipe
   create: documents
