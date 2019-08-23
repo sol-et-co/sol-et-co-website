@@ -4,3 +4,23 @@
 .metadata-value
   line-height: 1.25
   font-weight: 600
+
+.soletco-title
+  color: $secondary
+  font-size: 2rem
+  letter-spacing: 1px
+  text-transform: uppercase
+  word-break: break-word
+  font-weight: 300
+  line-height: 1.125
+  &:not(:last-child)
+    margin-bottom: 1.5rem
+  &.is-narrow + .soletco-subtitle
+    margin-top: -1.25rem
+
+.soletco-subtitle
+  color: $secondary
+  font-size: 1.5rem
+  line-height: 1.25
+  word-break: break-word
+  font-weight: 700
