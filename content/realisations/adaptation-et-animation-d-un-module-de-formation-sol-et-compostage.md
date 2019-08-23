@@ -6,7 +6,7 @@ prestation_key: formation-professionnelle
 execution_date: 2019-11-12T23:00:00+00:00
 partenaire: OrgaNeo
 in_home_page: true
-image: "/uploads/Photo_AA.jpg"
+image: 
 ---
 
 ## Objectif
