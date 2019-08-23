@@ -30,6 +30,7 @@ fields:
   label: Image
   description: Illustration principale
 pages:
+- content/realisations/conférence- comprendre-et-protéger-nos-sols .md
 - content/realisations/table-ronde- biodiversité-et-qualité-des-sols-en-milieu-urbain
   .md
 - content/realisations/conférence- mieux-connaître-le-sol-et-sa-biodiversité-pour-mieux-protéger-notre-santé.md
