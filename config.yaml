@@ -19,3 +19,7 @@ related:
   indices:
   - name: prestation_key
     weight: 1
+blackfriday:
+  smartypantsQuotesNBSP: true
+  extensions:
+  - hardLineBreak

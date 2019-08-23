@@ -16,7 +16,7 @@
         <h4 class="title is-size-5">{{ .Title }}</h4>
       </a>
       <p class="subtitle is-size-6">{{ .Params.subtitle }}</p>
-      <p class=''>{{ .Params.summary }}</p>
+      <p class=''>{{ .Params.summary | safeHTML | truncate 150}}</p>
       <a href="{{ .RelPermalink }}" class="button is-primary mt-3">En savoir plus</a>
     </div>
   </div>
