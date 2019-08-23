@@ -61,7 +61,7 @@ sections:
   create: none
   match: "**/*"
   templates:
-  - page-ressources
+  - qui-sommes-nous
 - type: directory
   path: content/equipe
   label: Equipe
