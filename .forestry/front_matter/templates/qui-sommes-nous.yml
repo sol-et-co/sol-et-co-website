@@ -1,4 +1,20 @@
 ---
-label: qui-sommes-nous
-hide_body: true
-fields: []
+label: page-with-image
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titre
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Sous-titre
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  description: Image ou photo d'illustration
