@@ -7,6 +7,26 @@ menu:
     weight: 3
 
 ---
-Lorem ipsum summary of the page.
-<!--more-->
-Lorem ipsum rest of the page.
+## Editeur
+
+Sol &co
+2 avenue de la Forêt de Haye
+54505 Vandœuvre-lès-Nancy Cedex
+
+Directeur de la publication : Anne Blanchart
+
+## Hébergement
+
+Site hébergé chez Netlify
+
+Netlify
+2325 3rd St #215
+San Francisco
+CA 94107
+USA
+
+## Crédits
+
+* Développement du site : [L'assembleuse](https://www.lassembleuse.fr/)
+* Icônes : [Fontawesome](https://fontawesome.com/) et Quentin Vincent
+* Photos : Sol &co
