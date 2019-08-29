@@ -17,6 +17,6 @@ weight: 2
 
 **Formats possibles :**
 
-* Séminaires théoriques & techniques sur le fonctionnement des sols
-* Ateliers interdisciplinaires de réflexion sur les liens entre le sol et l’urbanisme
-* Formations universitaires sur les enjeux liés aux sols et à leur biodiversité
+* **Séminaires** théoriques & techniques sur le fonctionnement des sols
+* **Ateliers** interdisciplinaires de réflexion sur les liens entre le sol et l’urbanisme
+* **Formations universitaires** sur les enjeux liés aux sols et à leur biodiversité
