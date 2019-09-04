@@ -1,5 +1,5 @@
  
-  <div class="card equipe-card is-flex">
+  <div class="card equipe-card">
     {{ with .Params.picture }}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
       {{ $resized := $imageResource.Fill "300x400" }}

@@ -1,6 +1,6 @@
 <nav class="columns is-multiline is-centered">
   {{ range where .Site.Pages "Type" "recompenses" }}
-    <div class="column is-2" data-aos="fade-up" data-aos-delay="0" data-aos-duration="1500">
+    <div class="column is-2 has-text-centered" data-aos="fade-up" data-aos-delay="0" data-aos-duration="1500">
       <div>
         <a href="{{ .Params.website  }}" title="{{ .Content }}" target='_blank'>
         {{ with .Params.picture }}
