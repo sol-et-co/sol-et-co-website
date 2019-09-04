@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+  {{- partial "page-header.html" . -}}
+  <section class="section has-background-white-ter">
+    <div class="container has-text-centered">
+      <div class="content">
+        {{ .Content }}
+        </div>
+        {{ $home := .Site.GetPage "/" }}
+        <a class="button is-primary mt-4" href="{{ $home.Permalink }}">Retourner à la page d'accueil</a>
+    </div>
+  </section>
+
+{{ end }}

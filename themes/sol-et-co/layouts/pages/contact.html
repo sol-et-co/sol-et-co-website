@@ -6,7 +6,8 @@
     <div class="columns">
       <div class="column is-5 is-offset-2" data-aos="fade-right" data-aos-delay="0" data-aos-duration="1500">
         <div class="box">
-          <form name="contact" netlify>
+          {{ $contact_success := .Site.GetPage "/contact-success" }}
+          <form name="contact" action="" netlify>
             <div class="field">
               <label class="label">Email</label>
               <div class="control ">
