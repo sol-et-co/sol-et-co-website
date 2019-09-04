@@ -1,5 +1,6 @@
 ---
 title: Nos compétences
+subtitle: ''
 menu:
   main:
     name: Compétences
