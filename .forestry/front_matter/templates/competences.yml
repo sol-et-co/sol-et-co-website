@@ -5,6 +5,16 @@ fields:
 - type: text
   name: title
   label: Titre
+- name: weight
+  type: number
+  label: Ordre
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  description: Du + petit au + grand (1 affiché en premier)
 pages:
 - content/competences/changement-et-interrelation-d-échelles.md
 - content/competences/urbanisme-opérationnel-planification-territoriale.md
