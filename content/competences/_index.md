@@ -1,6 +1,6 @@
 ---
 title: Nos compétences
-subtitle: lala
+subtitle: ''
 menu:
   main:
     name: Compétences
