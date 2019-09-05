@@ -5,11 +5,8 @@ fields:
 - type: text
   name: title
   label: Titre
-- type: list
-  name: competences
-  label: Competences
+- name: picture
+  type: file
   config:
-    use_select: true
-    source:
-      type: pages
-      section: competences
+    maxSize: 250
+  label: Icon
