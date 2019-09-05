@@ -1,7 +1,7 @@
 ---
 date: '2019-08-01T16:39:58+02:00'
 title: Dr. Quentin Vincent
-subtitle: Co-fondateur de Sol &co
+subtitle: Co-fondateur
 weight: 2
 summary: Diplômé d’un Master en d’Ecotoxicologie et Ecologie des Systèmes Anthropisé
   (Université de Lorraine) et d’un Doctorat en Ecotoxicologie, Biodiversité et Ecosystème
