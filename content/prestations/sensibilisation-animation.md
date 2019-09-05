@@ -5,7 +5,7 @@ subtitle: sur les enjeux liés à la préservation des sols et de leur biodivers
 competences: []
 prestation_key: sensibilisation-animation
 weight: 3
-
+picture: "/uploads/icon-sensibilisation-animation.png"
 ---
 * A la **découverte des différents sols** et de leurs rôles
 * Qu'est-ce qu'un **sol urbain** ?

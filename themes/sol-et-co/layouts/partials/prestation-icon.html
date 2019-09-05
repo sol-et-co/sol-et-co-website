@@ -1,6 +1,0 @@
-{{ $image := false }}
-{{ with .Params.prestation_key }}
-  {{ $file_name := printf "%s%s%s" "/uploads/icon-" . ".png"}}
-  {{ $image = ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" $file_name) }}
-{{ end }}
-{{ return $image }}

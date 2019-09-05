@@ -6,6 +6,7 @@ draft: false
 competences: []
 prestation_key: etude-diagnostic-conseil
 weight: 1
+picture: "/uploads/icon-etude-diagnostic-conseil.png"
 ---
 
 **Réalisation de diagnostics agro-pédologiques et conception d’outils d’aide à la décision, du projet urbain à l’aire urbaine, pour adapter l’usage des sols à leur qualité :**

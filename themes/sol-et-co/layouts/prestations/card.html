@@ -1,7 +1,8 @@
 <div class="card prestation-card has-text-centered has-background-secondary">
-  {{ $image := partial "prestation-icon.html" . }}
-  {{ with $image }}
-    {{ $pic := $image.Fill "400x400"}}
+  
+  {{ with .Params.picture }}
+    {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+    {{ $pic := $imageResource.Fill "400x400"}}
     <div class="card-image">
       <figure class="image ">
         <img src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">

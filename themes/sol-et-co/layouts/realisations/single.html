@@ -22,8 +22,8 @@
           <div class="mb-4 has-text-centered">
             {{ $prestation := where (.Site.RegularPages.RelatedIndices . "prestation_key") "Type" "prestations" }}
             {{ range $prestation }}
-              {{ $image := partial "prestation-icon.html" . }}
-              {{ with $image }}
+              {{ with .Params.picture }}
+                {{ $image := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
                 {{ $pic := $image.Fill "100x100"}}
                 <img src="{{ $pic.Permalink }}" alt="icon {{$.Title }}">
               {{ end }}

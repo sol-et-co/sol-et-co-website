@@ -6,10 +6,10 @@
     <section id="{{ .Params.prestation_key }}" class="section {{ if (mod .Weight 2)  0 }}has-background-white-ter{{ end }}">
       <div class="container">
         <div class="realisations-list-header" data-aos="fade-in" data-aos-delay="500" data-aos-duration="1500">
-          {{ $image := partial "prestation-icon.html" . }}
-          {{ with $image }}
-          {{ $pic := $image.Fill "50x50"}}
-          <img class="mr-2" src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">
+          {{ with .Params.picture }}
+            {{ $image := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+            {{ $pic := $image.Fill "50x50"}}
+            <img class="mr-2" src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">
           {{ end }}
           <h2 class="title is-3 heading has-text-weight-light">
             {{ .Title }}
