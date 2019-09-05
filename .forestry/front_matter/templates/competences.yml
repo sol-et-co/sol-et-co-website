@@ -16,10 +16,10 @@ fields:
     step: 
   description: Du + petit au + grand (1 affiché en premier)
 pages:
-- content/competences/changement-et-interrelation-d-échelles.md
 - content/competences/urbanisme-opérationnel-planification-territoriale.md
-- content/competences/méthodologies-et-technologies-innovantes.md
-- content/competences/compétences-techniques-et-scientifiques-terrain-laboratoire.md
 - content/competences/ecologie-des-sols.md
 - content/competences/agronomie-pédologie.md
+- content/competences/changement-et-interrelation-d-échelles.md
 - content/competences/gestion-de-bases-de-données-analyses-de-données-traitements-statistiques.md
+- content/competences/méthodologies-et-technologies-innovantes.md
+- content/competences/compétences-techniques-et-scientifiques-terrain-laboratoire.md
