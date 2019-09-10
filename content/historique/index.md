@@ -12,7 +12,7 @@ Plus globalement, ce projet est lié aux réflexions scientifiques engagées par
 
 #### **NOS PARTENAIRES :**
 
-**L'incubateur Lorrain** :   
+**L'incubateur Lorrain** :  
 [www.incubateurlorrain.org](http://www.incubateurlorrain.org "http://www.incubateurlorrain.org")
 
 **Le Laboratoire sols et environnement** (Université de Lorraine, INRA, UMRA1120): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
