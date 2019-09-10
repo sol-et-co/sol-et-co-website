@@ -10,5 +10,6 @@ menu:
   footer:
     name: Prestations
     weight: 1
-
+sitemap:
+  priority: 0.8
 ---

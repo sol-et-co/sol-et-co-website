@@ -9,5 +9,6 @@ menu:
   main:
     name: Réalisations
     weight: 2
-
+sitemap:
+  priority: 0.8
 ---
