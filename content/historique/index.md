@@ -10,6 +10,7 @@ Le projet de création de Sol &co est lié aux recherches menées lors de deux d
 
 Plus globalement, ce projet est lié aux réflexions scientifiques engagées par les 5 co-fondateurs au sein du Laboratoire Sols et Environnement (Université de Lorraine, Inra) et de l’Institut d’Urbanisme et d’Aménagement Régional (Aix-Marseille Université).
 
+####
 #### **NOS PARTENAIRES :**
 
 * **L'incubateur Lorrain** :  
