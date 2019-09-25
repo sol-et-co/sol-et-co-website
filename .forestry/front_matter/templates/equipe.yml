@@ -26,6 +26,11 @@ fields:
     maxSize: 250
   label: Image
   default: "/uploads/default_person_pic.png"
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
 pages:
 - content/equipe/pr-christophe-schwartz.md
 - content/equipe/dr-jean-noël-consalès.md
