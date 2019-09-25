@@ -15,7 +15,16 @@
       <a class="" href="{{ $.RelPermalink }}">
         <h4 class="title is-size-5">{{ .Title }}</h4>
       </a>
-      <p class="subtitle is-size-6">{{ .Params.subtitle }}</p>
+      <p class="subtitle is-size-6">
+        {{ .Params.subtitle }}
+        <br>
+        {{ with .Params.email }}
+          <span class="is-size-7">
+            <i class="far fa-envelope mr-1 "></i>
+            <a class="" href="mailto:{{ . }}">{{ . }}</a>
+          </span>
+        {{ end }}
+      </p>
       <p class=''>{{ .Params.summary | safeHTML | truncate 150}}</p>
       <a href="{{ .RelPermalink }}" class="button is-primary mt-3">En savoir plus</a>
     </div>

@@ -6,6 +6,7 @@ summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 picture: ""
 weight: ''
 draft: false
+email: ''
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus pretium quam vulputate. 
