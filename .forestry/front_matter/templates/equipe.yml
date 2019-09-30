@@ -32,6 +32,6 @@ fields:
     required: false
   label: Email
 pages:
-- content/equipe/dr-apolline-auclerc.md
 - content/equipe/dr-jean-noël-consalès.md
+- content/equipe/dr-apolline-auclerc.md
 - content/equipe/pr-christophe-schwartz.md
