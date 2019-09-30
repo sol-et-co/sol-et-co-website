@@ -7,6 +7,8 @@ title = "Dr. Jean Noël Consalès"
 weight = 4
 
 +++
+[www.researchgate.net/profile/Jean_Noel_Consales](https://www.researchgate.net/profile/Jean_Noel_Consales "https://www.researchgate.net/profile/Jean_Noel_Consales")
+
 ## Postes et formations
 
 #### 2012-actuel
