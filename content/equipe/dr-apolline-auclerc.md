@@ -9,7 +9,7 @@ weight = 3
 +++
 [https://www.researchgate.net/profile/Apolline_Auclerc](https://www.researchgate.net/profile/Apolline_Auclerc "https://www.researchgate.net/profile/Apolline_Auclerc")
 
-## Postes et formations
+## Formations et expériences professionnelles
 
 #### 2013-actuel
 
