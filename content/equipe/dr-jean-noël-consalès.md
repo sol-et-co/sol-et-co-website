@@ -17,9 +17,9 @@ weight = 4
 
 **Co-responsable** du parcours Projet de Paysage, Aménagement et Urbanisme du Master Urbanisme et Aménagement de l’IUAR (AMU).
 
-#### 2004-actuel
+#### 2004
 
-**Docteur en Géographie et en Aménagement du Territoire**. Thèse intitulée : _« Les jardins familiaux à Marseille, Gênes et Barcelone : laboratoires territoriaux de l’agriculture urbaine dans l’Arc Méditerranéen »._
+**Doctorat en Géographie et en Aménagement du Territoire**. Thèse intitulée : _« Les jardins familiaux à Marseille, Gênes et Barcelone : laboratoires territoriaux de l’agriculture urbaine dans l’Arc Méditerranéen »._
 
 ## Activités d’enseignement
 
