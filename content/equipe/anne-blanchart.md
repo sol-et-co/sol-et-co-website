@@ -3,10 +3,13 @@ date: '2019-08-01T16:38:35+02:00'
 title: Dr. Anne Blanchart
 subtitle: Présidente et fondatrice
 weight: 1
-summary: |-
-  Diplômée d’un Master en Urbanisme et Aménagement du Territoire (Institut Français de l’Urbanisme) et d’un Doctorat en Sciences Agronomiques (Université de Lorraine), Anne Blanchart apporte à la société ses compétences en planification du territoire, urbanisme opérationnel, droit de l’environnement et pédologie urbaine…
-picture: "/uploads/Anne Blanchart.JPG"
-email: 'anne.blanchart@sol-et-co.fr'
+summary: Diplômée d’un Master en Urbanisme et Aménagement du Territoire (Institut
+  Français de l’Urbanisme) et d’un Doctorat en Sciences Agronomiques (Université de
+  Lorraine), Anne Blanchart apporte à la société ses compétences en planification
+  du territoire, urbanisme opérationnel, droit de l’environnement et pédologie urbaine…
+picture: "/uploads/anne blanchart-09-2019-6-rognée-copyright.jpg"
+email: anne.blanchart@sol-et-co.fr
+
 ---
 ## Formations et expériences professionnelles
 
