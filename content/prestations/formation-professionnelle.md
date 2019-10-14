@@ -5,7 +5,7 @@ subtitle: sur le fonctionnement des sols et l’évaluation de leur qualité
 competences: []
 prestation_key: formation-professionnelle
 weight: 2
-picture: "/uploads/Image2-4.png"
+picture: "/uploads/ICONE_color_Formation professionnelle.png"
 
 ---
 **Initiation/perfectionnement sur les thématiques suivantes :**
