@@ -3,7 +3,7 @@ date: '2019-08-01T19:33:37+02:00'
 title: Mentions légales
 menu:
   footer_02:
-    weight: 3
+    weight: 4
 
 ---
 ## Editeur

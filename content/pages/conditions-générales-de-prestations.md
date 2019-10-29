@@ -3,7 +3,7 @@ draft = true
 subtitle = ""
 title = "Conditions générales de prestations"
 [menu.footer_02]
-weight = 4
+weight = 2
 
 +++
 ## Conditions générales de prestations
