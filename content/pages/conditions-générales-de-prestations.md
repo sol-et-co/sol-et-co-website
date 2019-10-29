@@ -2,7 +2,7 @@
 subtitle = ""
 title = "Conditions générales de prestations"
 [menu.footer_02]
-weight = 2
+weight = 4
 
 +++
 ## Conditions générales de prestations
