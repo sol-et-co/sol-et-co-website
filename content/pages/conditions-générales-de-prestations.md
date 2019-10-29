@@ -1,5 +1,4 @@
 +++
-draft = true
 subtitle = ""
 title = "Conditions générales de prestations"
 [menu.footer_02]
