@@ -1,6 +1,8 @@
 +++
 subtitle = "On parle de Sol &co !"
 title = "Actualités"
+[menu.footer]
+weight = 4
 
 +++
 ![](/uploads/le monde.png)
