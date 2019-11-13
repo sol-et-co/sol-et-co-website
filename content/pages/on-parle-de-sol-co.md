@@ -9,3 +9,7 @@ title = "On parle de Sol &co !"
 
 Article "Accompagner les villes pour mieux protéger les sols"  
 [Cliquez ici pour voir l'article](https://app.forestry.io/sites/q5fdsbk75zzyyw/body-media//uploads/Sol &co-journal_Le monde.pdf)
+
+## Article dans "Factuel"
+
+[Cliquez ici pour voir l'article]()
