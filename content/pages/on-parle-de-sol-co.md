@@ -1,6 +1,6 @@
 +++
-subtitle = "Médiatisation autour de Sol &co"
-title = "On parle de Sol &co !"
+subtitle = "On parle de Sol &co !"
+title = "Actualités"
 
 +++
 ![](/uploads/le monde.png)
@@ -10,6 +10,10 @@ title = "On parle de Sol &co !"
 Article "Accompagner les villes pour mieux protéger les sols"  
 [Cliquez ici pour voir l'article](https://app.forestry.io/sites/q5fdsbk75zzyyw/body-media//uploads/Sol &co-journal_Le monde.pdf)
 
+![](/uploads/factuel.png)
+
 ## Article dans "Factuel"
 
-[Cliquez ici pour voir l'article]()
+Article "3 questions à Anne Blanchart, étudiante-entrepreneure au PeeL, vainqueur du prix PEPITE 2019"
+
+[Cliquez ici pour voir l'article](https://factuel.univ-lorraine.fr/node/12448)
