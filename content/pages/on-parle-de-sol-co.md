@@ -3,6 +3,8 @@ subtitle = "Médiatisation autour de Sol &co"
 title = "On parle de Sol &co !"
 
 +++
+![](/uploads/le monde.png)
+
 ## Article dans le journal "Le Monde"
 
 Article "Accompagner les villes pour mieux protéger les sols"  
