@@ -1,6 +1,6 @@
 ---
 date: '2019-08-02T15:07:49+02:00'
-title: Prix Pépite
+title: Prix Pépite Régional & National
 picture: "/uploads/logo_pepite.jpg"
 website: https://cache.media.enseignementsup-recherche.gouv.fr/file/2019/37/5/pepite19_palmares_1189375.pdf
 
