@@ -3,10 +3,14 @@ date: '2019-08-01T16:39:58+02:00'
 title: Dr. Quentin Vincent
 subtitle: Co-fondateur
 weight: 2
-summary: |-
-  Diplômé d’un Master en d’Ecotoxicologie et Ecologie des Systèmes Anthropisés (Université de Lorraine) et d’un Doctorat en Ecotoxicologie, Biodiversité et Ecosystème (Université de Lorraine), Quentin Vincent apporte à la société ses compétences en écologie des sols, microbiologie, étude de la faune, utilisation des indicateurs biologiques, pédagogie ainsi qu’en gestion, analyse et traitement statistiques des données environnementales.
+summary: Diplômé d’un Master en d’Ecotoxicologie et Ecologie des Systèmes Anthropisés
+  (Université de Lorraine) et d’un Doctorat en Ecotoxicologie, Biodiversité et Ecosystème
+  (Université de Lorraine), Quentin Vincent apporte à la société ses compétences en
+  écologie des sols, microbiologie, étude de la faune, utilisation des indicateurs
+  biologiques, pédagogie ainsi qu’en gestion, analyse et traitement statistiques des
+  données environnementales.
 picture: "/uploads/Photo_VINCENT.jpg"
-email: 'quentin.vincent@sol-et-co.fr'
+email: quentin.vincent@sol-et-co.fr
 
 ---
 ## Formations et expériences professionnelles
@@ -47,6 +51,7 @@ Diplôme universitaire de technologie en Génie biologie et génie de l’enviro
 
 ## Publications marquantes
 
+* Auclerc A., Blanchart A., et **Vincent Q.,** 2019 - Jardibiodiv, un outil de sciences participatives sur la biodiversité des sols urbains, Etude et Gestion des Sols, 26, 195-209
 * **Vincent, Q.,** Chartin, C., Krüger, I., Van Wesemael, B., & Carnol, M. (2019). CARBIOSOL: Biological indicators of soil quality and organic carbon in grasslands and croplands in Wallonia, Belgium. Ecology \[**IF: 4.285**\]. doi: 10.1002/ecy.2843
 * **Vincent, Q.,** Chartin, C., Krüger, I., Bas v.W., Carnol, M., 2019. Développement d’indicateurs de la qualité biologique et du carbone organique du sol pour l’évaluation de l’état des sols en Wallonie : valorisation des acquis et transfert vers les utilisateurs (CARBIOSOL 5) : rapport finale. Subvention du Service Public de Wallonie pour l’Université de Liège et l’Université Catholique de Louvain
 * Chartin, C._,_ **Vincent, Q.,** Krüger, I., Bas v.W., Carnol, M. 2019. La qualité biologique et le carbone organique des sols agricoles en Wallonie. Service Public de Wallonie. Direction générale opérationnelle de l'Agriculture, des Ressources naturelles et de l'Environnement. Direction de la Protection des Sols. *:contribution équivalente.
