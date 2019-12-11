@@ -54,7 +54,7 @@ Université Bordeaux 1, Talence
 
 ## Publications marquantes
 
-* Auclerc A., Blanchart A., et Vincent Q., 2019 -Jardibiodiv, un outil de sciences participatives sur la biodiversité des sols urbains - [Etude et Gestion des Sols](https://www.afes.fr/wp-content/uploads/2019/12/EGS_2019_26_Auclerc-195-210.pdf)
+* Auclerc A.°, Blanchart A.°, et Vincent Q., 2019 -Jardibiodiv, un outil de sciences participatives sur la biodiversité des sols urbains - [Etude et Gestion des Sols](https://www.afes.fr/wp-content/uploads/2019/12/EGS_2019_26_Auclerc-195-210.pdf). °:contribution équivalente.
 * Vers une prise en compte des potentialités des sols dans la planification territoriale et l’urbanisme opérationnel – 2018 ; Blanchart A – [Manuscrit de thèse](http://docnum.univ-lorraine.fr/public/DDOC_T_2018_0203_BLANCHART.pdf)
 * Développement de l’agronomique urbaine pour une prise en compte de la ressource sol dans les projets d’aménagement urbain – 2017 ; Blanchart A – [The Conversation](https://theconversation.com/ma-these-en-bd-lagronome-des-villes-78486)
 * Contribution des sols à la production de services écosystémiques en milieu urbain – une revue – 2017 ; Blanchart A, Séré G, Cherel J, Warot G, Stas M, Consalès JN, Morel JL, Schwartz C – [EUE](https://www.erudit.org/fr/revues/eue/2017-v11-eue03888/1050486ar/)
