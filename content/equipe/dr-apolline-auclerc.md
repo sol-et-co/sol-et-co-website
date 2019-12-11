@@ -59,7 +59,7 @@ Porteur d’un projet **franco-chinois** - programme PHC Cai Yuanpei - **Campus 
 
 ## Dernières publications actuelles
 
-* __Auclerc A.*__, Blanchart A.*, et Vincent Q., 2019 - Jardibiodiv, un outil de sciences participatives sur la biodiversité des sols urbains, Etude et Gestion des Sols, 26, 195-209; *:contribution équivalente.
+* **Auclerc A.**°, Blanchart A.°, et Vincent Q., 2019 - Jardibiodiv, un outil de sciences participatives sur la biodiversité des sols urbains, Etude et Gestion des Sols, 26, 195-209; °:contribution équivalente.
 * Barot, S., Abbadie, L., **Auclerc**, A., Barthélémy, C., Bérille, E., Billet, P., Clergeau, P., _et al_., 2019. Urban ecology, stakeholders and the future of ecology. Science of The Total Environment, 667, 475-484.
 * **Auclerc**, A., Le Moine, J.M., Hatton, P.-J., Bird, J.A., Nadelhoffer, K.J., 2019. Decadal post-fire succession of soil invertebrate communities is dependent on the soil surface properties in a northern temperate forest. Science of The Total Environment 647, 1058-1068.
 * Hedde, M., Nahmani, J., Séré, G., **Auclerc,** A., Cortet, J., 2018. How successful is early colonisation of a constructed Technosol by soil macroinvertebrates? Journal of Soils and Sediments, 19, 3193-3203.
