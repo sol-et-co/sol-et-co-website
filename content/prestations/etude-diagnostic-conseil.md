@@ -5,7 +5,7 @@ subtitle: pour une gestion innovante et durable des sols
 competences: []
 prestation_key: etude-diagnostic-conseil
 weight: 1
-picture: "/uploads/Diagnostic - Sol &co.jpg"
+picture: "/uploads/icon1.jpg"
 
 ---
 **Réalisation de diagnostics agro-pédologiques et conception d’outils d’aide à la décision, du projet urbain à l’aire urbaine, pour adapter l’usage des sols à leur qualité :**
