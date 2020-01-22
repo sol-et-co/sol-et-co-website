@@ -1,5 +1,4 @@
 +++
-draft = true
 execution_date = 2020-01-13T23:00:00Z
 image = "/uploads/IMG_8180.jpg"
 partenaire = "Tous Chercheurs"
