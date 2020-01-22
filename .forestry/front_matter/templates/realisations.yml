@@ -30,6 +30,7 @@ fields:
   label: Image
   description: Illustration principale
 pages:
+- content/realisations/Citique.md
 - content/realisations/conférence- comprendre-et-protéger-la-biodiversité-des-sols
   .md
 - content/realisations/conférence- comprendre-et-protéger-nos-sols .md
