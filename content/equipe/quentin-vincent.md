@@ -15,21 +15,13 @@ email: quentin.vincent@sol-et-co.fr
 ---
 ## Formations et expériences professionnelles
 
-#### 2019-actuel
+#### 2018-2019
 
-Assistant de recherche (Université de Liège, Belgique, Laboratoire d’écologie végétale et microbienne), dans le projet Bassin Versant auprès du Prof. Monique Carnol.
-Gestion de bases des données.
+Assistant de recherche (Université de Liège, Belgique, Laboratoire d’écologie végétale et microbienne), dans le projet CARBIOSOL V puis dans le projet dans le projet 'Bassin Versant' auprès du Prof. Monique Carnol. Indicateurs biologiques, Bases des données, Sols agricoles, Communication.
 
 #### 02/2019
 
-Workshop. Long-Term Ecosystem Research Information Management Training. Umweltbundesamt GmbH, Vienna. 3,5 jours.
-
-#### 2018-2019
-
-Assistant de recherche (Université de Liège, Belgique, Laboratoire d’écologie végétale et microbienne), dans le projet CARBIOSOL V auprès du Prof. Monique Carnol.
-Indicateurs biologiques, Bases des données, Sols agricoles, Communication.
-
-#### 09/2015
+Workshop. Long-Term Ecosystem Research Information Management Training. Umweltbundesamt GmbH, Vienna. 3,5 jours.09/2015
 
 Summer School: Functions of microbial communities in soils : Biotic interactions. Helmholtz Zentrum München. 15 jours.
 
@@ -54,7 +46,7 @@ Diplôme universitaire de technologie en Génie biologie et génie de l’enviro
 * Auclerc A.°, Blanchart A.°, et **Vincent Q.,** 2019 - Jardibiodiv, un outil de sciences participatives sur la biodiversité des sols urbains, Etude et Gestion des Sols, 26, 195-209. °:contribution équivalente.
 * **Vincent, Q.,** Chartin, C., Krüger, I., Van Wesemael, B., & Carnol, M. (2019). CARBIOSOL: Biological indicators of soil quality and organic carbon in grasslands and croplands in Wallonia, Belgium. Ecology \[**IF: 4.285**\]. doi: 10.1002/ecy.2843
 * **Vincent, Q.,** Chartin, C., Krüger, I., Bas v.W., Carnol, M., 2019. Développement d’indicateurs de la qualité biologique et du carbone organique du sol pour l’évaluation de l’état des sols en Wallonie : valorisation des acquis et transfert vers les utilisateurs (CARBIOSOL 5) : rapport finale. Subvention du Service Public de Wallonie pour l’Université de Liège et l’Université Catholique de Louvain
-* Chartin, C.°, **Vincent, Q.**°**,** Krüger, I., Bas v.W., Carnol, M. 2019. La qualité biologique et le carbone organique des sols agricoles en Wallonie. Service Public de Wallonie. Direction générale opérationnelle de l'Agriculture, des Ressources naturelles et de l'Environnement. Direction de la Protection des Sols. °:contribution équivalente.
+* Chartin, C.°, **Vincent, Q.°**, Krüger, I., Bas v.W., Carnol, M. 2019. La qualité biologique et le carbone organique des sols agricoles en Wallonie. Service Public de Wallonie. Direction générale opérationnelle de l'Agriculture, des Ressources naturelles et de l'Environnement. Direction de la Protection des Sols. °:contribution équivalente.
 * **Vincent, Q.,** Leyval, C., Beguiristain, T., Auclerc, A. 2018. Functional structure of Collembola and soil macrofauna communities depends on abiotic parameters in derelict soils. Applied Soil Ecology \[**IF: 3.445**\]. 130, 259-270.
 * **Vincent, Q.,** Auclerc, A., Beguiristain, T., Leyval, C., 2018. Interactions between an arbuscular mycorrhizal fungus and a Collembola in two derelict soils planted with ryegrass. Soumis dans Plant and soil.
 * **Vincent, Q.,** Auclerc, A., Beguiristain, T., Leyval, C., 2018. Assessment of derelict soil quality : Abiotic , biotic and functional approaches. Sci. Total Environ \[**IF: 5.589**\]. 613–614, 990–1002.
