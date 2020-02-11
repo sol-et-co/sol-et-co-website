@@ -5,7 +5,6 @@ title = "Actualités"
 weight = 5
 
 +++
-
 ## Article dans Nancy Mag
 
 ![](/uploads/kX86Jg_6_400x400.jpg)
