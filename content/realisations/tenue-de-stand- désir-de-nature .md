@@ -1,6 +1,6 @@
 +++
-execution_date = "2019-05-30T00:00:00+02:00"
-image = ""
+execution_date = 2019-05-29T22:00:00Z
+image = "/uploads/moi en animation.JPG"
 partenaire = "Ville de Vandœuvre-lès-Nancy"
 prestation_key = "sensibilisation-animation"
 title = "Tenue de stand « Désir de nature »"
