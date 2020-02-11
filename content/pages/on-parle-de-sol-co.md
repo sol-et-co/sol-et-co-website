@@ -6,7 +6,13 @@ weight = 5
 
 +++
 
-## Article dans le Rapport 2019 de Développement Durable de la ville de Nancy 
+## Article dans Nancy Mag
+
+![](/uploads/kX86Jg_6_400x400.jpg)
+
+[Cliquez ici pour voir l'article](https://www.nancy.fr/photosvideos/ils-font-nancy-684/anne-blanchard-16564.html?cHash=5e9a9be34100d791834c7454e9b64887)
+
+## Article dans le Rapport 2019 de Développement Durable de la ville de Nancy
 
 ![](/uploads/image rapport devellopement durable nancy 2019.png)
 
