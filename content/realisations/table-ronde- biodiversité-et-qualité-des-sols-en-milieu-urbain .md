@@ -1,6 +1,6 @@
 +++
-execution_date = "2019-04-30T00:00:00+02:00"
-image = ""
+execution_date = 2019-04-29T22:00:00Z
+image = "/uploads/IMG_5249.jpg"
 partenaire = "Eco Conseil – Strasbourg Métropole"
 prestation_key = "sensibilisation-animation"
 title = "Table ronde « Biodiversité et qualité des sols en milieu urbain »"
