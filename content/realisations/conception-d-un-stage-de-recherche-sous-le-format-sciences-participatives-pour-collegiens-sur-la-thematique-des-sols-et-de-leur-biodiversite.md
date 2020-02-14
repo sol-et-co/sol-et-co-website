@@ -4,9 +4,11 @@ title: Conception d’un stage de recherche sous le format sciences participativ
   collégiens sur la thématique des sols et de leur biodiversité
 competences: []
 prestation_key: formation-professionnelle
-execution_date: 2019-08-06T22:00:00+00:00
+execution_date: 2019-08-06T22:00:00.000+00:00
 partenaire: Tous Chercheurs
 in_home_page: false
+image: "/uploads/clé de sol (2).jpg"
+
 ---
 ## Objectif
 
