@@ -5,6 +5,15 @@ title = "Actualités"
 weight = 5
 
 +++
+
+## Article dans le Cahier Métropole Nature
+
+![](/uploads/cahier métropole.png)
+
+Article "Un appel à projets innovants" - page 23
+
+[Cliquez ici pour voir l'article]()
+
 ## Article dans Nancy Mag
 
 ![](/uploads/kX86Jg_6_400x400.jpg)
