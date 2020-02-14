@@ -1,6 +1,6 @@
 +++
-execution_date = "2019-05-01T00:00:00+02:00"
-image = ""
+execution_date = 2019-04-30T22:00:00Z
+image = "/uploads/Aspirateurs insectes-1.jpg"
 partenaire = "Oasis Terre j’Aime"
 prestation_key = "sensibilisation-animation"
 title = "Conférence « Comprendre et protéger la biodiversité des sols »"
