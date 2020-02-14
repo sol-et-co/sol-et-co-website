@@ -1,9 +1,9 @@
 +++
-execution_date = "2019-04-26T20:00:00+02:00"
-image = ""
+execution_date = 2019-04-26T18:00:00Z
+image = "/uploads/Conf_Sol-1-1-1024x768 (3).jpg"
 partenaire = "Saulcy EnVert"
 prestation_key = "sensibilisation-animation"
-title = "Conférence « Mieux connaître le sol et sa biodiversité pour mieux protéger notre Santé »"
+title = "Conférence « Mieux connaître le sol et sa biodiversité pour mieux protéger notre santé »"
 
 +++
 ## Objectif
