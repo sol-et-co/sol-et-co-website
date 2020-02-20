@@ -8,7 +8,7 @@ weight: 1
 picture: "/uploads/Diagnostic - Sol &co.jpg"
 
 ---
-**Réalisation de diagnostics agro-pédologiques et conception d’outils d’aide à la décision, du projet urbain à l’aire urbaine, pour adapter l’usage des sols à leur qualité :**
+**Réalisation de diagnostics agro-pédologiques et conception d’outils d’aide à la décision, du projet urbain/paysager à l’aire urbaine, pour adapter l’usage des sols à leur qualité :**
 
 * **Échantillonnage et préparation des échantillons pour analyses** biologiques (abondance et diversité de la macro- et mésofaune, indicateurs microbiens etc.), physiques (texture, structure, infiltration, érosion, etc.) et chimiques (pH, teneurs carbone, azote, potassium, calcium, polluants métalliques et organiques, etc.)
 * **Caractérisation de la fertilité et de la pollution des sols**
