@@ -13,6 +13,6 @@ Plus globalement, ce projet est lié aux réflexions scientifiques engagées par
 #### **NOS PARTENAIRES :**
 
 * **Le Laboratoire sols et environnement** (Université de Lorraine, INRA, UMRA1120): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
-* **Képos** (Société coopérative d’intérêt collectif, pour la transition écologique du territoire): [www.kepos.fr](www.kepos.fr)
+* **Kepos** (Société coopérative d’intérêt collectif, pour la transition écologique du territoire): [www.kepos.fr](www.kepos.fr)
 * **L'incubateur Lorrain** :  
   [www.incubateurlorrain.org](http://www.incubateurlorrain.org "http://www.incubateurlorrain.org")
