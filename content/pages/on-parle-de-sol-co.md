@@ -6,13 +6,25 @@ weight = 5
 
 +++
 
+## Article dans l'Est Républicain
+
+![](/uploads/est repu.png)
+
+##### Article "La remise des trophées de l'environnement ce vendredi soir au conseil départemental"
+
+##### [Cliquez ici pour voir l'article](https://www.estrepublicain.fr/edition-nancy-et-agglomeration/2019/12/13/la-remise-des-trophees-de-l-environnement-ce-vendredi-soir-au-conseil-departemental)
+
+***
+
 ## Article dans le Cahier Métropole Nature
 
 ![](/uploads/cahier métropole.png)
 
-Article "Un appel à projets innovants" - page 23
+##### Article "Un appel à projets innovants" - page 23
 
 [Cliquez ici pour voir l'article]()
+
+***
 
 ## Article dans Nancy Mag
 
@@ -20,12 +32,16 @@ Article "Un appel à projets innovants" - page 23
 
 [Cliquez ici pour voir l'article](https://www.nancy.fr/photosvideos/ils-font-nancy-684/anne-blanchard-16564.html?cHash=5e9a9be34100d791834c7454e9b64887)
 
+***
+
 ## Article dans le Rapport 2019 de Développement Durable de la ville de Nancy
 
 ![](/uploads/image rapport devellopement durable nancy 2019.png)
 
-Article "Le sol du parc Sainte Marie comme Laboratoire à ciel ouvert"  
+##### Article "Le sol du parc Sainte Marie comme Laboratoire à ciel ouvert"  
 [Cliquez ici pour voir l'article](http://ensaia.univ-lorraine.fr/telechargements/rdd_2019_basse_def.pdf)
+
+***
 
 ## Article dans le journal "Le Monde"
 
@@ -34,10 +50,12 @@ Article "Le sol du parc Sainte Marie comme Laboratoire à ciel ouvert"
 Article "Accompagner les villes pour mieux protéger les sols"  
 [Cliquez ici pour voir l'article](https://app.forestry.io/sites/q5fdsbk75zzyyw/body-media//uploads/Sol &co-journal_Le monde.pdf)
 
+***
+
 ## Article dans "Factuel"
 
 ![](/uploads/factuel.png)
 
-Article "3 questions à Anne Blanchart, étudiante-entrepreneure au PeeL, vainqueur du prix PEPITE 2019"
+##### Article "3 questions à Anne Blanchart, étudiante-entrepreneure au PeeL, vainqueur du prix PEPITE 2019"
 
 [Cliquez ici pour voir l'article](https://factuel.univ-lorraine.fr/node/12448)
