@@ -7,7 +7,7 @@ title = "Pr. Christophe Schwartz"
 weight = 5
 
 +++
-## Recherche ou activités
+## Recherche et activités
 
 Mes travaux de recherche conduits depuis près de 30 ans concernent **l’étude de l’état, du fonctionnement, de l’évolution et de la restauration de la fonction de support de végétation des sols très anthropisés.** De 1993 à 2004, l’essentiel des recherches s’est intéressé au transfert de métaux du sol vers les plantes hyperaccumulatrices dans un objectif finalisé de **phytomanagement** des sites et sols dégradés. Depuis 2004, mes travaux se sont progressivement dirigés vers l’étude du fonctionnement et de la pédogénèse des sols très anthropisés (sols (péri)urbains et industriels) avec des objectifs finalisés de génie pédologique et de prise en compte des sols dans les **stratégies d’aménagement**, en particulier dans le contexte de l’**agriculture urbaine**. J’ai (co)dirigé 19 thèses de doctorat et publié 90 articles dans des revues à comité de lecture, 25 articles dans des revues nationales avec comité de lecture, 1 ouvrage, 25 chapitres d'ouvrages et contribution à ouvrages et 20 publications de vulgarisation. Je suis (co)auteur de plus de 140 communications orales à congrès internationaux et 40 à congrès nationaux.
 
