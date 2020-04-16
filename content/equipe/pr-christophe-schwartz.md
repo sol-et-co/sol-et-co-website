@@ -7,85 +7,51 @@ title = "Pr. Christophe Schwartz"
 weight = 5
 
 +++
+## Recherche ou activités
+
+Mes travaux de recherche conduits depuis près de 30 ans concernent **l’étude de l’état, du fonctionnement, de l’évolution et de la restauration de la fonction de support de végétation des sols très anthropisés.** De 1993 à 2004, l’essentiel des recherches s’est intéressé au transfert de métaux du sol vers les plantes hyperaccumulatrices dans un objectif finalisé de **phytomanagement** des sites et sols dégradés. Depuis 2004, mes travaux se sont progressivement dirigés vers l’étude du fonctionnement et de la pédogénèse des sols très anthropisés (sols (péri)urbains et industriels) avec des objectifs finalisés de génie pédologique et de prise en compte des sols dans les **stratégies d’aménagement**, en particulier dans le contexte de l’**agriculture urbaine**. J’ai (co)dirigé 19 thèses de doctorat et publié 90 articles dans des revues à comité de lecture, 25 articles dans des revues nationales avec comité de lecture, 1 ouvrage, 25 chapitres d'ouvrages et contribution à ouvrages et 20 publications de vulgarisation. Je suis (co)auteur de plus de 140 communications orales à congrès internationaux et 40 à congrès nationaux.
+
 ## Enseignement
 
-**Disciplines  
- **• science du sol (dont pédologie urbaine et industrielle)  
- • sciences et génie de l'environnement (pollution des écosystèmes, gestion des déchets, traitement des sols pollués)  
- • projets multidisciplinaires  
-   
- **Public**  
- • élèves ingénieurs : Ecole Nationale Supérieure d’Agronomie et des Industries Alimentaires ; Ecole Nationale Supérieure de Géologie ; Ecole Nationale du Génie de l’Eau et de l’Environnement de Strasbourg ; Groupe Paristech (ENGREF, INA-PG, Mines, Telecom) ; Ecole Nationale Supérieure du Paysage de Blois  
- • étudiants en masters : Masters Géosciences et Génie Civil, Forêt Agriculture Génie de l’Environnement  
-   
- **Responsabilités pédagogiques**  
- • responsable de la spécialisation de 3ème année « Sciences et Génie de l’Environnement » de l’ENSAIA-INPL (depuis 2005)  
- • responsable d’unités d’enseignement des Masters GCC et FAGE (depuis 2005)  
- • co-directeur du DESS "Ressources Naturelles et Environnement" (INPL, Université Paul Verlaine (Metz), Université Henri Poincaré (Nancy), responsabilité de l’option "Milieux anthropisés" (2001 à 2005)  
-   
- **Action internationale  
- **• projet TEMPUS, Université d’Agriculture de Tirana, Albanie  
- • programme PREMER, Argentine, Uruguay et Paraguay
+J’enseigne depuis 1996 les sciences du sol et le génie de l’environnement à l’**Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires** (Ensaia) dont j’ai été directeur adjoint et directeur des études de 2007 à 2012. J’ai pris en charge de 2001 à 2005 la co-direction du DESS **_Ressources Naturelles et Environnement_**. J’ai assuré de 2005 à 2020, la responsabilité de la spécialisation de 3ème année **_Sciences et Génie de l’Environnement_** de l’Ensaia. Les enseignements réalisés depuis 1994 intéressent la **pédologie (classique et urbaine)**, les sciences et le génie de l'environnement et l’**agronomie urbaine**, la formation générale des étudiants en sciences du sol et notamment les enseignements en projets pluridisciplinaires. J’interviens également dans des formations d’ingénieurs et de master sur des thématiques liées à la **connaissance et à la gestion des sols très anthropisés** (AgroParisTech, Ecole Nationale Supérieure de Géologie (ENSG), Ecole Nationale du Génie de l’Eau et de l’Environnement de Strasbourg (Engees), Ecole Nationale Supérieure des Mines de Nancy (ENSMN), Ecole Nationale d’Architecture de Nancy (ENSAN), Ecole Nationale Supérieure du Paysage de Versailles-Marseille (ENSP)). J’interviens auprès d’opérateurs de la nature en ville dans le cadre de la formation continue. Je suis coordinateur scientifique du projet européen Knowledge Alliance BUILD Solutions en partenariat avec l’IAAC de Barcelone (architecture-urbanisme), l’Université de Vienne (économie) et de Copenhague (entrepreneuriat). BUILD Solutions vise dégager des solutions issues du génie écologique pour aider à surmonter les défis posés par l’urbanisation rapide des territoires.
 
 ## Résumé de carrière
 
-**ACTIVITÉS PROFESSIONNELLES**  
- depuis 1999**  
- Maître de Conférences**, INPL(ENSAIA)  
- autorisé par le Conseil Scientifique à co-encadrer des thèses INPL  
- 1998-1999**  
- Ingénieur de recherches INRA** contractuel  
- Laboratoire Sols et Environnement INPL(ENSAIA)/INRA  
- 1997-1998**  
- Attaché temporaire d'enseignement et de recherche** (ATER)  
- Laboratoire Sols et Environnement INPL(ENSAIA)/INRA
-
-**CURSUS UNIVERSITAIRE  
- **1994-1997  
- **Thèse de Doctorat** de l’INPL en Sciences Agronomiques  
- «Phytoextraction des métaux des sols pollués par la plante hyperaccumulatrice Thlaspi caerulescens» mention Très Honorable avec Félicitations du Jury  
- 1993-1994 • Service national  
- 1993  
- • **DEA** de l’INPL en Sciences Agronomiques "Facteurs de qualité des sols de jardins de l'Est-Mosellan" - mention Très Bien  
- • **Ingénieur Agronome** de l’ENSAIA - Spécialisation Sciences et Génie de l'Environnement
+**Ingénieur agronome** (1993) et **Docteur en Sciences Agronomiques** de l’Institut National Polytechnique de Lorraine (INPL) (1994-1997, Thèse sur **la phytoextraction des métaux des sols pollués**, cofinancée par l’Ademe et la société Ingérop, médaille d’argent de l’Académie d’Agriculture de France), j’ai ensuite l’opportunité d’accéder à un poste d’Attaché Temporaire d’Enseignement et de Recherche (ATER) à l’INPL(Ensaia). J’ai poursuivi mes travaux en tant qu’Ingénieur de Recherche Inra (1998-1999). J’ai été **Maître de Conférences en Génie de l’Environnement** (1999-2007), à l’INPL (Ensaia), basé au LSE. Je suis depuis 2007, **Professeur des Universités en pédologie urbaine** (PREX) à l’Université de Lorraine. Depuis 2013, je suis directeur du Laboratoire Sols et Environnement (unité mixte de recherche entre l’Université de Lorraine (UL) et l’Institut National de Recherche en Agriculture, Alimentation et Environnement (INRAE)), après avoir été responsable de l’équipe **_Fonctionnement et évolution des sols très anthropisés – Technosols_** de cette même unité de recherche de 2004 à 2012. Je suis membre du bureau du **Groupement d’Intérêt Scientifique sur les Friches Industrielles** (Gisfi). Je participe aux travaux du **Conseil Scientifique, Technique et de l'Innovation du Réseau National d’Expertise Scientifique et Technique sur les Sols** (RNEST-Sols).
 
 ## Publications choisies
 
-**Schwartz C.** , Sirguey C., Peronny S., Reeves R.D., Bourgaud F., et Morel J.L. 2005. Selection of outstanding individuals of _Thlaspi caerulescens_ for cadmium phytoextraction. International Journal of Phytoremediation , accepté  
- Capilla X., **Schwartz C.**, Bedell J.-P., Sterckeman T., Perrodin Y., et Morel J.L., 2005. Physicochemical and biological characterisation of different dredged sediment deposit sites in France . Environmental Pollution , sous presse  
- Sirguey C., **Schwartz C.** et Morel J.L. 2005. Response of _Thlaspi caerulescens_ to nitrogen, phosphorus and sulphur fertilisation. International Journal of Phytoremediation , sous presse  
- Boularbah A., **Schwartz C.**, Bitton G., et Morel J.L. 2005. Heavy metal contamination from mining sites in South Morocco : 1. Use of a biotest to assess metal toxicity of tailings and soils , Chemosphere, sous presse  
- Boularbah A., **Schwartz C.**, Bitton G., Aboudrar W., Ouhammou A., et Morel J.L. 2005. Heavy metal contamination from mining sites in South Morocco : 2. Assessment of metal accumulation and toxicity in plants, Chemosphere, sous presse  
- Saison C., **Schwartz C.**, et Morel J.L., 2004. Hyperaccumulation of metals by _Thlaspi caerulescens_ as affected by root development and Cd-Zn/Ca-Mg interactions. International Journal of Phytoremediation , 6, 1, 49-61.  
- Perronnet K., **Schwartz C**., et Morel J.L. 2003. Distribution of cadmium and zinc in the hyperaccumulator _Thlaspi caerulescens_ grown on multicontaminated soil. Plant and Soil , 249, 19-25  
- **Schwartz C** ., Echevarria G., et Morel J.L. 2003. Phytoextraction of cadmium with _Thlaspi caerulescens_. Plant and Soil , 249, 27-35  
- Scheifler R., **Schwartz C.**, Echevarria G., Gomot-de Vaufleury A., Badot P.M., et Morel J.L. 2003. Non-phytoavailable" soil cadmium is available for snails. Environmental Science and Technology, 37, 81-86  
- Reeves R.D., **Schwartz C.**, Morel J.L., et Edmondson J., 2001. Distribution and metal-accumulating behavior of _Thlaspi caerulescens_ and associated metallophytes in France . International Journal of Phytoremediation , 3 (2), 145-172  
- **Schwartz C.** , Gérard E., Perronnet K., et Morel J.L., 2001. Measurement of _in situ_ phytoextraction of zinc by spontaneous metallophytes growing on a former smelter site. The Science of the Total Environment , 279, 215-221  
- **Schwartz C.** , Morel J.L., Saumier S., Withing S.N. et Baker A.J.M., 1999. Root architecture of the zinc-hyperaccumulator plant _Thlaspi caerulescens_ as affected by metal origin, content and localization in soil. Plant and Soil, 208, 103-115
+**Schwartz, C.**, Morel, J.L., Saumier, S., Withing, S.N., Baker, A.J.M., 1999. Root architecture of the zinc-hyperaccumulator plant _Thlaspi caerulescens_ as affected by metal origin, content and localization in soil. Plant Soil 208, 103-115.
+
+**Schwartz, C.**, Gérard, E., Perronnet, K., Morel, J.L., 2001. Measurement of _in situ_ phytoextraction of zinc by spontaneous metallophytes growing on a former smelter site. Sci. Total Environ. 279, 215-221.
+
+**Schwartz, C**., Echevarria, G., Morel, J.L., 2003. Phytoextraction of cadmium with _Thlaspi caerulescens_. Plant Soil 249, 27-35.
+
+**Schwartz, C.**, Sirguey, C., Peronny, S., Reeves, R., Bourgaud, F., Morel, J.L., 2006. Testing of outstanding individuals of _Thlaspi caerulescens_ for cadmium phytoextraction. Int. J. Phytoremediat. 8(4), 339-357.
+
+El Khalil, H., **Schwartz, C.**, El Hamiani, O., Kubiniok, J., Morel, J.L., Boularbah, A., 2008. Contribution of technic materials to the mobile fraction of metals in urban soils in Marrakech (Morocco). J. Soils Sediments 8(1), 17-22.
+
+Séré, G., **Schwartz, C.**, Ouvrard, S., Sauvage, C., Renat, J.C., Morel, J.L., 2008. Soil construction : a step for ecological reclamation of derelict lands. J. Soils Sediments 8(2), 130-136.
+
+El Khalil, H., **Schwartz, C.,** El Hamiani, O., Kubiniok, J., Morel, J.L., Boularbah, A., 2013. Distribution of major elements and trace metals as indicators of technosolisation of urban and suburban soils. J. Soils Sediments 13(3), 519 - 530.
+
+Jangorzo, N.-S., Watteau, F., **Schwartz, C.**, 2013. Evolution of the pore structure of Technosols during early pedogenesis quantified by image analysis. Geoderma 207-208, 180-192.
+
+Rokia, S., Séré, G., **Schwartz, C.**, Deeb M., Fournier F., Nehls T., Damas O., Vidal-Beaudet L., 2014. Modelling agronomic properties of Technosols constructed with urban wastes. Waste Manage. 34, 2155-2162
+
+El Khalil H., **Schwartz C**., El Hamiani O., Sirguey C., Kubiniok J., Boularbah A., 2016. How physical alteration of technic materials affects mobility and phytoavailabilty of metals in urban soils? Chemosphere 152, 407-414.
+
+Joimel S., Cortet J., Jolivet C., Saby N., Chenot E.-D., Branchu P., Consalès J.-N., Lefort C., Morel J.L., **Schwartz C**., 2016. Physico-chemical characteristics of topsoil for contrasted forest, agricultural, urban and industrial land uses in France. Sci. Total Environ. 545, 40-47.
+
+Dagois R., Faure P., Bataillard P., Bouzouidja R., Coussy S., Leguédois S., Enjelvin N., **Schwartz C.** (2017) From atmospheric- to pedo-climate modeling in Technosols: A global scale approach. Geoderma 301, 47-59.
+
+Joimel, S., **C. Schwartz**, M. Hedde, S. Kiyota, P. H. Krogh, J. Nahmani, G. Pérès, A. Vergnes and J. Cortet (2017). Urban and industrial land uses have a higher soil biological quality than expected from physicochemical quality. Sci. Total Environ. 584-585, 614-621.
+
+Blanchart, A., Séré, G., Cherel, J., Warot, G., Stas, M., Consalès, J.N., Morel, J.L., **Schwartz, C**., 2018. Towards an operational methodology to optimize ecosystem services provided by urban soils, Landscape Urban Plan. 179, 1-9.
+
+Cambou, A., Shaw, R.K., Huot, H., Vidal-Beaudet, L., Hunault, G., Cannavo, P., Nold, F., **Schwartz, C.**, 2018. Estimation of soil organic carbon stocks of two cities, New York City and Paris. Sci. Total Environ., 644: 452-464.
 
 ## Prix et décorations
 
 1997 Diplôme de Médaille d'Argent de l'Académie d'Agriculture de France (Thèse)  
- 1993 Prix de l'Académie d'Agriculture de France (DEA)
-
-## Responsabilités et activités administratives
-
-**depuis 2005**  
- Membre du Comité de Direction du Laboratoire Sols et Environnement  
- Animateur du Thème scientifique "Pédogenèse des Technosols"  
- Responsable de la Spécialisation Sciences et Génie de l’Environnement, ENSAIA  
- Membre du Bureau du GISFI, Chef de projet "Gestion des sols multipollués"  
- Membre de la Commission de choix des enseignants de l’ENSAIA  
- **depuis 2004**  
- Membre élu du Conseil de l’ENSAIA  
- Membre élu de la Commission de Spécialistes, Section 68  
- Membre du groupe de travail «Echantillonnage de sols de jardins» MEDD, ADEME, INERIS  
- **depuis 2001**  
- Membre du Comité Valorisation de l’INPL  
- **2001-2003**  
- Membre élu du Conseil Scientifique de l’INPL  
- **depuis 1999**  
- Membre du Comité de Suivi de l’Alternance de l’ENSAIA  
- **depuis 1997**  
- Membre du Comité Scientifique de la Chambre d'Agriculture du Bas-Rhin
+1993 Prix de l'Académie d'Agriculture de France (DEA)
