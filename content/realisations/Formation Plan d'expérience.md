@@ -6,6 +6,6 @@ prestation_key = "formation-professionnelle"
 title = "Formation Plan d'expériences - théorie et pratique"
 
 +++
-Formation à distance sur les plans d'expériences (partie théorique et pratique sur R) pour la société [C&DAC](https://www.cetdac.com/), avec Elise BOURCIER et Yvan  ETCHIANDAS. Cette société est spécialisée dans le conseil et de développement de Agro-culinaire. 
+Formation à distance sur les plans d'expériences (théorie et pratique sur R) pour la société [C&DAC](https://www.cetdac.com/), avec Elise BOURCIER et Yvan  ETCHIANDAS. Cette société est spécialisée dans le conseil et le développement agro-culinaire.
 
 L'objectif de la formation est de présenter les bases de la logique des plans d'expériences, leurs utilités et une mise en pratique, avec un jeu de données mise en forme, sur le logiciel de statistique R.
