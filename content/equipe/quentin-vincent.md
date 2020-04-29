@@ -15,23 +15,28 @@ email: quentin.vincent@sol-et-co.fr
 ---
 ## Formations et expériences professionnelles
 
+#### 2020-aujourd'hui
+
+Chef de projet - **Ecologie et biodiversité des sols**  
+Directeur Général de Sol &co
+
 #### 2018-2019
 
-Assistant de recherche (Université de Liège, Belgique, Laboratoire d’écologie végétale et microbienne), dans le projet CARBIOSOL V puis dans le projet dans le projet 'Bassin Versant' auprès du Prof. Monique Carnol. Indicateurs biologiques, Bases des données, Sols agricoles, Communication.
+Assistant de recherche (Université de Liège, Belgique, Laboratoire d’écologie végétale et microbienne), dans le projet CARBIOSOL V puis dans le projet dans le projet 'Bassin Versant' auprès du Prof. Monique Carnol. **Indicateurs biologiques**, **Bases des données**, Sols agricoles, Communication.
 
 #### 02/2019
 
-Workshop. Long-Term Ecosystem Research Information Management Training. Umweltbundesamt GmbH, Vienna. 3,5 jours.09/2015
+Workshop. **Long-Term Ecosystem Research** Information Management Training. Umweltbundesamt GmbH, Vienna. 3,5 jours.09/2015
 
-Summer School: Functions of microbial communities in soils : Biotic interactions. Helmholtz Zentrum München. 15 jours.
+Summer School: **Functions** of microbial communities in soils : **Biotic interactions**. Helmholtz Zentrum München. 15 jours.
 
 #### 2014-2018
 
-Doctorat : “Etude des paramètres abiotiques, biotiques et fonctionnels et de leurs interactions dans des sols délaissés” (Université de Lorraine, LIEC et LSE). Directrices : Corinne Leyval et Apolline Auclerc. https://tel.archives-ouvertes.fr/tel-01896274/document
+Doctorat : “**Etude des paramètres abiotiques, biotiques et fonctionnels et de leurs interactions dans des sols délaissés**” (Université de Lorraine, LIEC et LSE). Directrices : Corinne Leyval et Apolline Auclerc. https://tel.archives-ouvertes.fr/tel-01896274/document
 
 #### 2012-2014
 
-Master en Ecotoxicologie et écologie des systèmes anthropisés (E2SA) Université de Lorraine-Metz.
+Master en **Ecotoxicologie** et **écologie** des systèmes **anthropisés** (E2SA) Université de Lorraine-Metz.
 
 #### 2011-2012
 
