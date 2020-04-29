@@ -13,7 +13,7 @@ email: anne.blanchart@sol-et-co.fr
 ---
 ## Formations et expériences professionnelles
 
-#### Juillet 2019 - aujourd'hui
+#### juillet 2019 - aujourd'hui
 
 Cheffe de projet - **Urbanisme et pédologie urbaine**  
 Présidente de Sol &co
