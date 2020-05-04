@@ -9,9 +9,9 @@ weight = 5
 
 ![](/uploads/territorial-gazette.jpg)
 
-Article "Examiner les sols à la loupe, une clé pour mieux aménager" dans la rubrique Innovations et Territoires
+Article "Examiner les sols à la loupe, une clé pour mieux aménager" dans la rubrique Innovations et Territoires (p.36).
 
-[Cliquez ici pour voir l'article](http://pvsamplersla6.immanens.com/fr/pvPageH5B.asp?puc=6547&nu=2513&pa=1#36 "La Gazette") (page 36)
+[Cliquez ici pour voir l'article](http://pvsamplersla6.immanens.com/fr/pvPageH5B.asp?puc=6547&nu=2513&pa=1#36 "La Gazette")
 
 ## Article dans l'Est Républicain
 
