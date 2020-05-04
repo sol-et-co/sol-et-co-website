@@ -5,6 +5,13 @@ title = "Actualités"
 weight = 5
 
 +++
+## Article dans La Gazette des communes
+
+![](/uploads/territorial-gazette.jpg)
+
+Article "Examiner les sols à la loupe, une clé pour mieux aménager" dans la rubrique Innovations et Territoires
+
+[Cliquez ici pour voir l'article](http://pvsamplersla6.immanens.com/fr/pvPageH5B.asp?puc=6547&nu=2513&pa=1#36 "La Gazette") (page 36)
 
 ## Article dans l'Est Républicain
 
@@ -38,7 +45,8 @@ weight = 5
 
 ![](/uploads/image rapport devellopement durable nancy 2019.png)
 
-##### Article "Le sol du parc Sainte Marie comme Laboratoire à ciel ouvert"  
+##### Article "Le sol du parc Sainte Marie comme Laboratoire à ciel ouvert"
+
 [Cliquez ici pour voir l'article](http://ensaia.univ-lorraine.fr/telechargements/rdd_2019_basse_def.pdf)
 
 ***
