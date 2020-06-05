@@ -1,6 +1,6 @@
 ---
 date: '2019-08-21T11:57:19.000+00:00'
-title: Diagnostic participatif de qualité des sols du parc Sainte Marie (Nancy)
+title: Diagnostic participatif de la qualité des sols du parc Sainte Marie (Nancy)
 competences: []
 prestation_key: etude-diagnostic-conseil
 execution_date: 2019-09-15T00:00:00+02:00
