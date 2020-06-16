@@ -1,10 +1,14 @@
 +++
 subtitle = "On parle de Sol &co !"
-title = "Actualités"
+title = "On parle de nous"
 [menu.main]
 weight = 5
 
 +++
+## Article dans Vosges Matin
+
+![](/uploads/juin_2020_edition_speciale_environnement-vosges-matin.jpg)
+
 ## Article dans La Gazette des communes
 
 ![](/uploads/territorial-gazette.jpg)
