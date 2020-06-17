@@ -48,7 +48,7 @@
         </p>
       </div>
       <div class="columns">
-        {{ $realisations := where (where .Site.RegularPages "Type" "realisations") ".Params.in_home_page" true }}
+        {{ $realisations := sort (where (where .Site.RegularPages "Type" "realisations") ".Params.in_home_page" true) "Params.execution_date" "desc" }}
         {{ range $index, $element := first 3 ( $realisations ) }}
         <div class="column is-4" data-aos="fade-up" data-aos-delay="{{ mul $index 800 }}" data-aos-duration="1500">
           {{ .Render "card"}}
