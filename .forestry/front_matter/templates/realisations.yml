@@ -26,7 +26,8 @@ fields:
 - type: boolean
   name: in_home_page
   label: Sur page d'accueil ?
-  description: Les 3 réalisations les + récentes parmi celles dont la case est cochée seront affichées
+  description: Les 3 réalisations les + récentes parmi celles dont la case est cochée
+    seront affichées
 - name: image
   type: file
   config:
