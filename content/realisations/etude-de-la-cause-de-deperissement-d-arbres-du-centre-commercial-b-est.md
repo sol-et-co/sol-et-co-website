@@ -1,5 +1,4 @@
 +++
-draft = true
 execution_date = 2020-07-21T22:00:00Z
 image = "/uploads/img-20200722-wa0005.jpg"
 in_home_page = true
