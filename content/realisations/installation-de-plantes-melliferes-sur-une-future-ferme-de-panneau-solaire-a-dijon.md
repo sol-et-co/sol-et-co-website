@@ -4,7 +4,7 @@ image = "/uploads/image_5c705ea2-c741-4f0f-9e92-df9ae2b7555b20200723_184215.jpg"
 in_home_page = false
 partenaire = "EKODEV"
 prestation_key = "etude-diagnostic-conseil"
-title = "Installation de plantes mellifères sur une future ferme de panneau solaire à Dijon"
+title = "Installation de plantes mellifères sur une future ferme de panneaux solaires à Dijon"
 
 +++
 Diagnostic sur site de la qualité physico-chimique et inventaire de la macrofaune sur un sol récemment construit, qui va accueillir une ferme de panneaux solaires gérée par EDF.
