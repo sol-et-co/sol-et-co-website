@@ -22,3 +22,5 @@ fields:
     maxSize: 250
   label: Image de droite
   description: Image qui apparaîtra à droite du texte
+pages:
+- content/pages/r-d.md
