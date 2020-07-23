@@ -7,4 +7,4 @@ prestation_key = "etude-diagnostic-conseil"
 title = "Installation d'un verger à Essey-les-Nancy"
 
 +++
-Afin d'optimiser la plantation d'arbre nourricier pour la conception d'un verger, une étude de la qualité du sol (fertilité et pollution) a été réalisé chez un particulier.
+Afin d'optimiser la plantation d'arbres nourriciers pour la conception d'un verger, une étude de la qualité du sol (fertilité et pollution) a été réalisée chez un particulier.
