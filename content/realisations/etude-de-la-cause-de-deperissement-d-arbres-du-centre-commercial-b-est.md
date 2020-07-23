@@ -2,7 +2,7 @@
 execution_date = 2020-07-21T22:00:00Z
 image = "/uploads/img-20200722-wa0005.jpg"
 in_home_page = true
-partenaire = "TERA Paysage Environnements"
+partenaire = "TERA Paysages Environnement"
 prestation_key = "etude-diagnostic-conseil"
 title = "Etude de la cause de dépérissement d'arbres du centre commercial B'Est"
 
