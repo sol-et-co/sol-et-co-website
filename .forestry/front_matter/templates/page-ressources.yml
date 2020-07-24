@@ -23,4 +23,5 @@ fields:
   label: Image de droite
   description: Image qui apparaîtra à droite du texte
 pages:
+- content/pages/cdd-et-stagiaires.md
 - content/pages/r-d.md
