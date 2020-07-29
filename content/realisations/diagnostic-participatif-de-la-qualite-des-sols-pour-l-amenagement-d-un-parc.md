@@ -4,7 +4,7 @@ image = "/uploads/20200716_100823.jpg"
 in_home_page = true
 partenaire = "Mairie de Vandoeuvre-lès-Nancy"
 prestation_key = "etude-diagnostic-conseil"
-title = "Diagnostic participatif de la qualité des sols pour l'aménagement d'une une prairie fleurie"
+title = "Diagnostic participatif de la qualité des sols pour l'aménagement d'une prairie fleurie"
 
 +++
 Dans le cadre de l'aménagement d'une future prairie fleurie dans Vandoeuvre Village, un diagnostic participatif de la qualité physico-chimique et biologique a été réalisé.
