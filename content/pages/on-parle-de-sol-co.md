@@ -5,6 +5,12 @@ title = "On parle de nous"
 weight = 5
 
 +++
+## Article dans l'Est Républicain
+
+9 septembre 2020
+
+![](/uploads/articleestrepu-jardins-de-curie.png)
+
 ## Article dans Vosges Matin
 
 ![](/uploads/juin_2020_edition_speciale_environnement-vosges-matin.jpg)
