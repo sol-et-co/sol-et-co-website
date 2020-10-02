@@ -5,6 +5,16 @@ title = "On parle de nous"
 weight = 5
 
 +++
+
+## Article dans La Semaine
+
+28 septembre 2020
+
+![](/uploads/la-semaine.jpg)
+
+"Nancy : Ils font parler les sols"  
+[Cliquez ici](https://www.lasemaine.fr/nancy-ils-font-parler-les-sols/) pour voir l'article
+
 ## Article dans l'Est Républicain
 
 9 septembre 2020
