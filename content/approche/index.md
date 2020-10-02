@@ -4,7 +4,7 @@ title: Notre approche
 subtitle: Pour un aménagement du territoire et du paysage optimisé par la prise en
   compte des caractéristiques physiques, chimiques et biologiques des sols
 image_bandeau: "/uploads/Photo bandeau paysage urbain page qui sommes-nous_1.jpeg"
-image_droite: "/uploads/IMG_1192.JPG"
+image_droite: "/uploads/infographie_les-sols-urbains_sol-co.jpg"
 
 ---
 Les sols, y compris en ville, sont capables de fonctionner pour fournir des bienfaits indispensables à la survie des sociétés humaines.
