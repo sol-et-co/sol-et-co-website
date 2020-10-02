@@ -2,7 +2,7 @@
 subtitle = "On parle de Sol &co !"
 title = "On parle de nous"
 [menu.main]
-weight = 5
+weight = 6
 
 +++
 
