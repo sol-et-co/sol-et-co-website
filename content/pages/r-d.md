@@ -1,5 +1,4 @@
 +++
-draft = true
 image_bandeau = ""
 image_droite = ""
 subtitle = "Recherche & Développement chez Sol &co"
