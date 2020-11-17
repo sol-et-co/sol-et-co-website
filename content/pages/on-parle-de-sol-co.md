@@ -6,6 +6,16 @@ weight = 6
 
 +++
 
+## Article dans L'Est Républicain
+
+17 novembre 2020
+
+![](/uploads/est-republicain-nancy-mardi-17-novembre-2020_2.png)
+
+[https://www.estrepublicain.fr/culture-loisirs/2020/11/16/anais-hayat-renforce-les-effectifs-de-flore-54](https://www.estrepublicain.fr/culture-loisirs/2020/11/16/anais-hayat-renforce-les-effectifs-de-flore-54 "https://www.estrepublicain.fr/culture-loisirs/2020/11/16/anais-hayat-renforce-les-effectifs-de-flore-54")
+
+Dans le cadre du projet TrameBioSol
+
 ## Article dans La Semaine
 
 28 septembre 2020
