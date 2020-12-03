@@ -14,6 +14,7 @@ Plus globalement, ce projet est lié aux réflexions scientifiques engagées par
 
 * **Le Laboratoire sols et environnement** (UMR UL-INRAE): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
 * **Kepos** (Société coopérative d’intérêt collectif, pour la transition écologique du territoire): [www.kepos.fr](www.kepos.fr)
+* **Lorraine Inside** (Club sélectif d'entrepreneurs):[ www.lorraine-inside.com](https://www.lorraine-inside.com/ "https://www.lorraine-inside.com/")
 * **Brownfield Academy** (Réseau participatif belge pour le recyclage des friches urbaines et industrielles) : [www.brownfieldacademy.org](https://www.brownfieldacademy.org/ "https://www.brownfieldacademy.org/")
 * **L'incubateur Lorrain** :  
   [www.incubateurlorrain.org](http://www.incubateurlorrain.org "http://www.incubateurlorrain.org")
