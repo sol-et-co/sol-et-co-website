@@ -15,10 +15,10 @@ picture: "/uploads/Diagnostic - Sol &co.jpg"
   \- Physiques (texture, structure, infiltration, érosion, etc.) et  
   \- Chimiques (pH, teneurs carbone, azote, potassium, calcium, polluants métalliques et organiques, etc.)
 * **Caractérisation de la fertilité et de la pollution des sols**
-* **Interventions pédologiques** : appréhension de l’_hétérogénéité_ des sols à l’échelle d’un jardin, d’un site de projet urbain ou d’une aire urbaine, détermination d’_unités de sol homogène_, sondages à la _tarière_, ouvertures de _fosses pédologiques_, description de profil de sol et échantillonnage d’horizons de sol
-* **Interventions écologiques** : caractérisation _taxonomique_ et _fonctionnelle_ de la macrofaune, mésofaune, des micro-organismes et des plantes, à l’échelle d’un jardin, d’un site de projet urbain ou d’une aire urbaine.
-* **Conseils de gestion et de valorisation des sols** : _interprétation des résultats d’analyses_ de sol et conseils de culture, d’amendements, de travail et d’usages des sols
-* **Sciences participatives** : définition de protocoles et accompagnement des _citoyens_ pour détermination de la biodiversité des sols, de la texture, de la structure et de la vitesse d’infiltration de l’eau
+* **Interventions pédologiques** : appréhension de l’hétérogénéité des sols à l’échelle d’un jardin, d’un site de projet urbain ou d’une aire urbaine, détermination d’unités de sol homogène, sondages à la tarière, ouvertures de fosses pédologiques, description de profil de sol et échantillonnage d’horizons de sol
+* **Interventions écologiques** : caractérisation taxonomique et fonctionnelle de la macrofaune, mésofaune, des micro-organismes et des plantes, à l’échelle d’un jardin, d’un site de projet urbain ou d’une aire urbaine.
+* **Conseils de gestion et de valorisation des sols** : interprétation des résultats d’analyses de sol et conseils de culture, d’amendements, de travail et d’usages des sols
+* **Sciences participatives** : définition de protocoles et accompagnement des citoyens pour détermination de la biodiversité des sols, de la texture, de la structure et de la vitesse d’infiltration de l’eau
 * **Etudes cartographiques** : études des cartes de sols et des enjeux relatifs à leur qualité agronomique (érosion, inondations, fertilité, etc.)
 
 **Accompagnement à la mise en place d’une politique de gestion durable des sols :**
