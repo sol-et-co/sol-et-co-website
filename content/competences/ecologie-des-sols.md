@@ -1,6 +1,7 @@
 +++
-title = "Ecologie des sols"
 icon = "/uploads/Ecologie des sols.png"
+title = "Ecologie des sols"
 weight = 2
+
 +++
-Etude des organismes du sol vivants dans leurs milieux et de leurs interactions. Les organismes étudiés ont au moins un stade de leur vie dans le sol.
+Etude des organismes du sol (**micro-organismes, mésofaune, macrofaune, végétaux**) et leurs fonctions. Chez Sol &co, la biodiversité des sols est étudié par l'**approche taxonomique** (identification des individus) et **fonctionnelle** (quels sont leurs rôles dans le fonctionnement du sol). L'utilisation de **bio-indicateurs** permet d'évaluer la qualité des sols et les impacts des perturbations humaines sur la biodiversité.
