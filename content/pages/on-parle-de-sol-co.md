@@ -5,6 +5,15 @@ title = "On parle de nous"
 weight = 6
 
 +++
+## Article dans L'Est Républicain
+
+27 novembre 2020
+
+![](/uploads/est-repu-brabois.png)
+
+![](/uploads/photo-est-repu-brabois.jpg)
+
+[https://www.estrepublicain.fr/education/2020/11/27/les-ecoliers-a-la-recherche-des-petites-betes](https://www.estrepublicain.fr/education/2020/11/27/les-ecoliers-a-la-recherche-des-petites-betes "https://www.estrepublicain.fr/education/2020/11/27/les-ecoliers-a-la-recherche-des-petites-betes")
 
 ## Article dans L'Est Républicain
 
