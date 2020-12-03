@@ -1,6 +1,7 @@
 +++
-title = "Changement et interrelation d’échelles"
 icon = "/uploads/Changement et interrelation d'échelles.png"
+title = "Changement et interrelation d’échelles"
 weight = 8
+
 +++
-De la parcelle au territoire
+Sol &co appréhende le sol de la **parcelle** (approche en écologie des sols) au **territoire** (approche en urbanisme).
