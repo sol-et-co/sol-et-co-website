@@ -10,11 +10,13 @@ Le projet de création de Sol &co est lié aux recherches menées lors de deux d
 
 Plus globalement, ce projet est lié aux réflexions scientifiques engagées par les 5 co-fondateurs au sein du Laboratoire Sols et Environnement (Université de Lorraine, INRAE) et de l’Institut d’Urbanisme et d’Aménagement Régional (Aix-Marseille Université).
 
-#### **NOS PARTENAIRES :**
+#### **NOS PARTENAIRES ET RESEAUX :**
 
-* **Le Laboratoire sols et environnement** (UMR UL-INRAE): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
 * **Kepos** (Société coopérative d’intérêt collectif, pour la transition écologique du territoire): [www.kepos.fr](www.kepos.fr)
 * **Lorraine Inside** (Club sélectif d'entrepreneurs):[ www.lorraine-inside.com](https://www.lorraine-inside.com/ "https://www.lorraine-inside.com/")
-* **Brownfield Academy** (Réseau participatif belge pour le recyclage des friches urbaines et industrielles) : [www.brownfieldacademy.org](https://www.brownfieldacademy.org/ "https://www.brownfieldacademy.org/")
-* **L'incubateur Lorrain** :  
-  [www.incubateurlorrain.org](http://www.incubateurlorrain.org "http://www.incubateurlorrain.org")
+* **Brownfield Academy** (Réseau participatif belge pour le recyclage des friches urbaines et industrielles) : Membre expert Biodiversité des sols [www.brownfieldacademy.org](https://www.brownfieldacademy.org/ "https://www.brownfieldacademy.org/")
+* **Biodiversio** (Création d'ilots pour la biodiversité ordinaire en territoire urbains et industriels) : Membre du Comité Scientifique et Technique
+
+
+* **Le Laboratoire sols et environnement** (UMR UL-INRAE): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
+* **L'incubateur Lorrain** : [www.incubateurlorrain.org](http://www.incubateurlorrain.org "http://www.incubateurlorrain.org") 
