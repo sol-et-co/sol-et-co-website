@@ -7,6 +7,12 @@ weight = 6
 +++
 ## Article dans L'Est Républicain
 
+7 décembre 2020
+
+![](/uploads/article-7-dec-2020.png)
+
+## Article dans L'Est Républicain
+
 27 novembre 2020
 
 ![](/uploads/est-repu-brabois.png)
