@@ -1,6 +1,6 @@
 +++
 execution_date = 2021-01-13T23:00:00Z
-image = "/uploads/formation-synergis.jpg"
+image = "/uploads/formation-synergis2.jpg"
 in_home_page = true
 partenaire = "Synergis Environnement"
 prestation_key = "formation-professionnelle"
