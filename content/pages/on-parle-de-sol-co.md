@@ -2,7 +2,7 @@
 subtitle = "On parle de Sol &co !"
 title = "On parle de nous"
 [menu.main]
-weight = 6
+weight = 7
 
 +++
 ## Article dans L'Est Républicain
