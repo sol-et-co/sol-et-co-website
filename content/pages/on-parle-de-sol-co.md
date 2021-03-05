@@ -5,6 +5,12 @@ title = "On parle de nous"
 weight = 7
 
 +++
+## Article dans La semaine
+
+4 mars 2021
+
+![](/uploads/la-semaine-4-mars-2021-png.jpg)
+
 ## Article dans L'Est Républicain
 
 7 décembre 2020
