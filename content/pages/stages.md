@@ -3,8 +3,6 @@ image_bandeau = "/uploads/laptop-3196481_1280.webp"
 image_droite = ""
 subtitle = "Offres de stages"
 title = "Stages"
-[menu.main]
-weight = 6
 
 +++
 **ACTUELLEMENT  

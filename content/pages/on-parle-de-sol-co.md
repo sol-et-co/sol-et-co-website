@@ -2,7 +2,7 @@
 subtitle = "On parle de Sol &co !"
 title = "On parle de nous"
 [menu.main]
-weight = 7
+weight = 6
 
 +++
 ## Article dans La semaine
