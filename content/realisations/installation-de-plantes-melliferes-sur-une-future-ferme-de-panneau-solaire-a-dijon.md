@@ -2,7 +2,7 @@
 execution_date = 2020-07-05T22:00:00Z
 image = "/uploads/image_5c705ea2-c741-4f0f-9e92-df9ae2b7555b20200723_184215.jpg"
 in_home_page = false
-partenaire = "EKODEV"
+partenaire = "Ekodev"
 prestation_key = "etude-diagnostic-conseil"
 title = "Installation de plantes mellifères sur une future ferme de panneaux solaires à Dijon"
 
