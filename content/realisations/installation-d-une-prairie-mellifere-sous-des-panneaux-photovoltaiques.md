@@ -9,4 +9,4 @@ title = "Installation d'une prairie mellifère sous des panneaux photovoltaïque
 +++
 Mandaté par [Ekodev ](https://ekodev.com/)dans le cadre d'un aménagement d'une prairie mellifère pour [Reden Solar](https://reden.solar/), Sol &co a étudié la compatibilité du sol pour ce futur usage et conseille sur la palette végétale adaptée. Ce site a vocation d'être sous co-action, plantation d'une pairie sous panneaux photovoltaïques, à Samazan (près de Bordeaux).
 
-![](/uploads/samazan.png)
+![](/uploads/sam-p4-vers.jpg)![](/uploads/samazan.png)
