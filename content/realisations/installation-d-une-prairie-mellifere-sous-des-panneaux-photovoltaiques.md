@@ -2,7 +2,7 @@
 execution_date = 2021-02-21T23:00:00Z
 image = "/uploads/ekodev-samazan.jpg"
 in_home_page = true
-partenaire = "EKODEV"
+partenaire = "Ekodev"
 prestation_key = "etude-diagnostic-conseil"
 title = "Installation d'une prairie mellifère sous des panneaux photovoltaïques"
 
