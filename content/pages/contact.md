@@ -4,7 +4,7 @@ title: Contact
 layout: contact
 menu:
   main:
-    weight: 8
+    weight: 7
   footer_02:
     weight: 2
 
