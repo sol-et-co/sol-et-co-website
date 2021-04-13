@@ -1,9 +1,9 @@
 +++
-execution_date = ""
-image = ""
+execution_date = 2020-08-31T22:00:00Z
+image = "/uploads/cle-de-sol.png"
 in_home_page = false
 partenaire = "Chambre régionale d'agriculture Grand Est, CPIE, INRA, France Nature Environnement, Agro Campus Ouest, Tous Chercheurs Grand-Est"
-prestation_key = ""
+prestation_key = "etude-diagnostic-conseil"
 title = "Projet Clés de Sol"
 
 +++
