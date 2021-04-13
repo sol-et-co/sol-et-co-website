@@ -12,25 +12,6 @@ Plus globalement, ce projet est lié aux réflexions scientifiques engagées par
 
 #### **NOS PARTENAIRES ET RESEAUX :**
 
-![](/uploads/logomicrohumus.jpg)**Microhumus** (Bureau d'étude en ingénierie des sols et phytomanagement); [https://www.microhumus.eu/](https://www.microhumus.eu/ "https://www.microhumus.eu/")
+![](/uploads/logos.png)
 
-![](/uploads/logokepos.png)
-
-**Kepos** (Société coopérative d’intérêt collectif, pour la transition écologique du territoire): [www.kepos.fr](www.kepos.fr)
-
-![](/uploads/logolorraineinside.png)
-
-**Lorraine Inside** (Club sélectif d'entrepreneurs):[ www.lorraine-inside.com](https://www.lorraine-inside.com/ "https://www.lorraine-inside.com/")
-
-![](/uploads/logobrownfieldacademy.png)
-
-* **Brownfield Academy** (Réseau participatif belge pour le recyclage des friches urbaines et industrielles) : Membre expert Biodiversité des sols [www.brownfieldacademy.org](https://www.brownfieldacademy.org/ "https://www.brownfieldacademy.org/")
-
-  ![](/uploads/logobiodiversio.jpg)
-* **Biodiversio** (Création d'ilots pour la biodiversité ordinaire en territoire urbains et industriels) : Membre du Comité Scientifique et Technique
-
-  ![](/uploads/logo-lse.png)
-* **Le Laboratoire sols et environnement** (UMR UL-INRAE): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
-
-  ![](/uploads/logo-il.jpg)
-* **L'incubateur Lorrain** : [www.incubateurlorrain.org](http://www.incubateurlorrain.org "http://www.incubateurlorrain.org")
+[**Microhumus**](https://www.microhumus.eu/)**;** [**Kepos**](www.kepos.fr)**;** [**Lorraine Inside**]( www.lorraine-inside.com)**;** [**Brownfield Academy**]( www.brownfieldacademy.org) ; [**Laboratoire sols et environnement**](www.lse.univ-lorraine.fr)**;** [**Incubateur Lorrain**](www.incubateurlorrain.org)
