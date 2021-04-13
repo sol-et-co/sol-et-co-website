@@ -9,7 +9,7 @@ picture: "/uploads/Formations - Sol &co-6.jpg"
 
 ---
 **Certification QUALIOPI:   
-**Grâce à notre partenaire KEPOS, **organisme de formation**, nos interventions sont garantis dans un processus d’amélioration continue.
+**Grâce à notre partenaire [KEPOS](https://www.kepos.fr/), **organisme de formation**, nos interventions sont garantis dans un processus d’amélioration continue.
 
 **Initiation/perfectionnement sur les thématiques suivantes :**
 
