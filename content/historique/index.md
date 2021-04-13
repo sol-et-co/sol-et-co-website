@@ -12,9 +12,18 @@ Plus globalement, ce projet est lié aux réflexions scientifiques engagées par
 
 #### **NOS PARTENAIRES ET RESEAUX :**
 
-* **Microhumus** (Bureau d'étude en ingénierie des sols et phytomanagement); [https://www.microhumus.eu/](https://www.microhumus.eu/ "https://www.microhumus.eu/")
-* **Kepos** (Société coopérative d’intérêt collectif, pour la transition écologique du territoire): [www.kepos.fr](www.kepos.fr)
-* **Lorraine Inside** (Club sélectif d'entrepreneurs):[ www.lorraine-inside.com](https://www.lorraine-inside.com/ "https://www.lorraine-inside.com/")
+![](/uploads/logomicrohumus.jpg)**Microhumus** (Bureau d'étude en ingénierie des sols et phytomanagement); [https://www.microhumus.eu/](https://www.microhumus.eu/ "https://www.microhumus.eu/")
+
+![](/uploads/logokepos.png)
+
+**Kepos** (Société coopérative d’intérêt collectif, pour la transition écologique du territoire): [www.kepos.fr](www.kepos.fr)
+
+![](/uploads/logolorraineinside.png)
+
+**Lorraine Inside** (Club sélectif d'entrepreneurs):[ www.lorraine-inside.com](https://www.lorraine-inside.com/ "https://www.lorraine-inside.com/")
+
+![](/uploads/logobrownfieldacademy.png)
+
 * **Brownfield Academy** (Réseau participatif belge pour le recyclage des friches urbaines et industrielles) : Membre expert Biodiversité des sols [www.brownfieldacademy.org](https://www.brownfieldacademy.org/ "https://www.brownfieldacademy.org/")
 * **Biodiversio** (Création d'ilots pour la biodiversité ordinaire en territoire urbains et industriels) : Membre du Comité Scientifique et Technique
 * **Le Laboratoire sols et environnement** (UMR UL-INRAE): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
