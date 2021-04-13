@@ -25,6 +25,12 @@ Plus globalement, ce projet est lié aux réflexions scientifiques engagées par
 ![](/uploads/logobrownfieldacademy.png)
 
 * **Brownfield Academy** (Réseau participatif belge pour le recyclage des friches urbaines et industrielles) : Membre expert Biodiversité des sols [www.brownfieldacademy.org](https://www.brownfieldacademy.org/ "https://www.brownfieldacademy.org/")
+
+  ![](/uploads/logobiodiversio.jpg)
 * **Biodiversio** (Création d'ilots pour la biodiversité ordinaire en territoire urbains et industriels) : Membre du Comité Scientifique et Technique
+
+  ![](/uploads/logo-lse.png)
 * **Le Laboratoire sols et environnement** (UMR UL-INRAE): [www.lse.univ-lorraine.fr](http://lse.univ-lorraine.fr)
+
+  ![](/uploads/logo-il.jpg)
 * **L'incubateur Lorrain** : [www.incubateurlorrain.org](http://www.incubateurlorrain.org "http://www.incubateurlorrain.org")
