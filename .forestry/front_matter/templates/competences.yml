@@ -17,6 +17,7 @@ fields:
   description: Du + petit au + grand (1 affiché en premier)
 pages:
 - content/competences/agronomie-pédologie.md
+- content/competences/certifie-qualiopi.md
 - content/competences/changement-et-interrelation-d-échelles.md
 - content/competences/compétences-techniques-et-scientifiques-terrain-laboratoire.md
 - content/competences/ecologie-des-sols.md
