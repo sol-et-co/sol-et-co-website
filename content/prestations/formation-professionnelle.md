@@ -8,6 +8,8 @@ weight: 2
 picture: "/uploads/Formations - Sol &co-6.jpg"
 
 ---
+Grâce à notre partenaire KEPOS, **organisme de formation**, nos interventions sont certifié **Qualiopi**. Dans un **processus d’amélioration continue**, Sol &co s’engage à **adapter les formations aux besoins** des stagiaires et d’assurer des formations dans les meilleures conditions, avec des outils de **pédagogie active et participative**.
+
 **Initiation/perfectionnement sur les thématiques suivantes :**
 
 * **Fonctionnement et caractéristiques** biologiques (biodiversité, activités biologiques, végétation, etc.), physiques (texture, structure, etc.) et chimiques (teneurs en carbone, azote, métaux lourds (éléments traces métalliques), etc.) des sols ;
