@@ -35,6 +35,7 @@ fields:
   label: Image
   description: Illustration principale
 pages:
+- content/realisations/48h-de-l-agriculture-urbaine.md
 - content/realisations/Citique.md
 - content/realisations/Formation Plan d'expérience.md
 - content/realisations/amenagement-du-campus-bouloie-temis-a-besancon.md
