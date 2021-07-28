@@ -1,6 +1,6 @@
 +++
 execution_date = 2021-05-30T22:00:00Z
-image = "/uploads/1622484778698.jfif"
+image = "/uploads/trambiosol1.jpg"
 in_home_page = true
 partenaire = "FLORE54"
 prestation_key = "etude-diagnostic-conseil"
