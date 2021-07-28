@@ -7,14 +7,13 @@ title = "CDD et stages"
 weight = 6
 
 +++
-
 ![](/uploads/maurice-kessie-stage-sol-co.png)
 
 Maurice Kessié, étudiant en Master Géoressources pour l'environnement (Univ. Paris Saclay), dans le cadre de son stage de fin d'études a travaillé sur les liens entre les indicateurs de la qualité des sols urbains et leurs usages.
 
-![](/uploads/image_e253063e-f497-47cb-989b-5066a1af5ae420210728_163711.jpg)
+![](/uploads/cassiopee.jpg)
 
-Cassiopée HENRIOT, étudiante en master 1 d'Ecotoxicologie à l'Unievrsité de Strasbourg, a travaillé sur les indicateurs biologiques et notamment sur la mise en place d'un protocole non létale pour l'étude de la macrofaune du sol. 
+Cassiopée HENRIOT, étudiante en master 1 d'Ecotoxicologie à l'Unievrsité de Strasbourg, a travaillé sur les indicateurs biologiques et notamment sur la mise en place d'un protocole non létale pour l'étude de la macrofaune du sol.
 
 ![](/uploads/simon-goergen.png)
 
