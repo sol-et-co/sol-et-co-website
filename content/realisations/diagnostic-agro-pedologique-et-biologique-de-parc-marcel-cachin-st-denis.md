@@ -1,6 +1,6 @@
 +++
 execution_date = 2021-04-19T22:00:00Z
-image = ""
+image = "/uploads/1618934960567.jfif"
 in_home_page = true
 partenaire = "Pleine Commune"
 prestation_key = "etude-diagnostic-conseil"
