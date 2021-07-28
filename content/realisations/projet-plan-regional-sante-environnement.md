@@ -1,6 +1,6 @@
 +++
 execution_date = 2021-07-12T22:00:00Z
-image = "/uploads/1626192295084.jfif"
+image = "/uploads/prse.jpg"
 in_home_page = false
 partenaire = "Saulcy EnVert"
 prestation_key = "sensibilisation-animation"
