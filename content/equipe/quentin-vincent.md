@@ -1,7 +1,7 @@
 ---
 date: '2019-08-01T16:39:58+02:00'
 title: Dr. Quentin Vincent
-subtitle: Directeur Scientifique et Technique
+subtitle: Directeur Scientifique et Technique, Co-fondateur
 weight: 2
 summary: Diplômé d’un Master en Ecotoxicologie et Ecologie des Systèmes Anthropisés
   (Université de Lorraine) et d’un Doctorat en Ecotoxicologie, Biodiversité et Ecosystème
