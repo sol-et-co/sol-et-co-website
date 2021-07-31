@@ -10,6 +10,3 @@ weight = 5
 ![](/uploads/r-d-sol-co.png)
 
 Offres d'emploi :
-
-  
-**CDI-Chargé.e de projets en pédologie et agronomie urbaines:** [Téléchargement ici](https://drive.google.com/file/d/1-_RfaDF7jF0fhwqbTaGapYwEDuOlhcp5/view?usp=sharing "Offre CDI Pédologie urbaine SOL &CO")
