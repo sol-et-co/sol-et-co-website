@@ -1,7 +1,7 @@
 ---
 date: '2019-08-01T16:39:58+02:00'
 title: Dr. Quentin Vincent
-subtitle: Directeur Général
+subtitle: Directeur Scientifique et Technique
 weight: 2
 summary: Diplômé d’un Master en Ecotoxicologie et Ecologie des Systèmes Anthropisés
   (Université de Lorraine) et d’un Doctorat en Ecotoxicologie, Biodiversité et Ecosystème
@@ -18,7 +18,7 @@ email: quentin.vincent@sol-et-co.fr
 #### 2020-aujourd'hui
 
 Chef de projet - **Ecologie et biodiversité des sols**  
-Directeur Général de Sol &co
+Co-fondateur et Directeur Scientifique et Technique de Sol &co
 
 #### 2018-2019
 
