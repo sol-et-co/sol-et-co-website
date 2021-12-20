@@ -1,7 +1,7 @@
 +++
 execution_date = 2021-08-22T22:00:00Z
 image = "/uploads/complementerre-formation-sol.jpg"
-in_home_page = false
+in_home_page = true
 partenaire = "Complément Terre"
 prestation_key = "formation-professionnelle"
 title = "Formation de paysagistes concepteurs sur l'étude de la qualité des sols"
