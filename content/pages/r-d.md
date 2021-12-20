@@ -9,4 +9,6 @@ weight = 5
 +++
 ![](/uploads/r-d-sol-co.png)
 
-Offres d'emploi :
+### Offres d'emploi : 
+
+* **Business Developer :** [**CLIQUEZ ICI**](https://www.dropbox.com/s/8jg8375ifj3x1ce/Fiche%20de%20poste_Business%20developer_Sol%20%26co.pdf?dl=0 "Offre Business Developer")
