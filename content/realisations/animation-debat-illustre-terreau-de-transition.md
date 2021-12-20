@@ -1,6 +1,6 @@
 +++
 execution_date = 2021-05-11T22:00:00Z
-image = "/uploads/1621080273055.jfif"
+image = "/uploads/debat-illustre-jpeg.jpg"
 in_home_page = false
 partenaire = "Cité des paysages (Meurthe et Moselle)"
 prestation_key = "sensibilisation-animation"
