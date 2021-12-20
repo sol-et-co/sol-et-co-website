@@ -1,6 +1,6 @@
 +++
 execution_date = 2021-11-29T23:00:00Z
-image = "/uploads/tous-chercheur-stage-sol.jfif"
+image = "/uploads/stage-sol-tous-chercheurs-jpeg.jpg"
 in_home_page = true
 partenaire = "Tous Chercheurs"
 prestation_key = "sensibilisation-animation"
