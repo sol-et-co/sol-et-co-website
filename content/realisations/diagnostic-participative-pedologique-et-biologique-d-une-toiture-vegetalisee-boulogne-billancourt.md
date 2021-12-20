@@ -1,6 +1,6 @@
 +++
 execution_date = 2021-11-22T23:00:00Z
-image = "/uploads/ecole-des-sciences-et-de-la-biodiversite.jfif"
+image = "/uploads/ecole-des-sciences-et-de-la-biodiversite-jpeg.jpg"
 in_home_page = true
 partenaire = "AHEcologie"
 prestation_key = "etude-diagnostic-conseil"
