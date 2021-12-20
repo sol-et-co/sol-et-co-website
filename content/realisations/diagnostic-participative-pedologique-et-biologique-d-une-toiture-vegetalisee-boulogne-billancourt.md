@@ -4,7 +4,7 @@ image = "/uploads/ecole-des-sciences-et-de-la-biodiversite.jfif"
 in_home_page = true
 partenaire = "AHEcologie"
 prestation_key = "etude-diagnostic-conseil"
-title = "Diagnostic participative, pédologique et biologique, d'une toiture végétalisée (Boulogne Billancourt)"
+title = "Diagnostic participatif, pédologique et biologique, d'une toiture végétalisée (Boulogne Billancourt)"
 
 +++
 Une forêt et une prairie sur une toiture végétalisée à Boulogne Billancourt ?
