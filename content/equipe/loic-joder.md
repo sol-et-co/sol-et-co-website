@@ -4,7 +4,7 @@ picture = "/uploads/loic-joder.jpg"
 subtitle = "Chargé de projets – Pédologie et agronomie urbaines"
 summary = "Diplômé d’un Master en Géosciences avec une spécialité Sols Eaux Environnement à l’Université de Lorraine, Loïc Joder apporte à la société ses compétences en pédologie, diagnostics de sols, analyses des données, traitement des échantillons, cartographie..."
 title = "Loïc Joder"
-weight = 3
+weight = 2
 
 +++
 **Formations et expériences professionnelles**
